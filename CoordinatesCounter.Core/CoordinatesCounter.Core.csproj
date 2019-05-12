@@ -50,6 +50,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+      <Compile Include="InputStructs\AircraftIpnutData.cs"/>
     <Compile Include="InputStructs\CameraInputData.cs" />
     <Compile Include="Matrixes\AngleCameraOnPlaneMatrix.cs" />
     <Compile Include="Matrixes\AngleCameraRegEarth.cs" />

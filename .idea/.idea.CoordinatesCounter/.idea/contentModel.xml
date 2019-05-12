@@ -9,6 +9,7 @@
         <e p="Calculations" t="Include" />
         <e p="CoordinatesCounter.Core.csproj" t="IncludeRecursive" />
         <e p="InputStructs" t="Include">
+          <e p="AircraftIpnutData.cs" t="Include" />
           <e p="CameraInputData.cs" t="Include" />
         </e>
         <e p="Matrixes" t="Include">
