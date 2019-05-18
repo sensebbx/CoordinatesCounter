@@ -50,8 +50,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+      <Compile Include="Calculations\CoordinatesCounter.cs"/>
       <Compile Include="InputStructs\AircraftIpnutData.cs"/>
     <Compile Include="InputStructs\CameraInputData.cs" />
+      <Compile Include="InputStructs\ObjectInputData.cs"/>
     <Compile Include="Matrixes\AngleCameraOnPlaneMatrix.cs" />
     <Compile Include="Matrixes\AngleCameraRegEarth.cs" />
     <Compile Include="Matrixes\AnglePlaneMatrix.cs" />
@@ -59,9 +61,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Calculations" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="..\packages\Accord.3.8.2-alpha\build\Accord.targets" Condition="Exists('..\packages\Accord.3.8.2-alpha\build\Accord.targets')" />
