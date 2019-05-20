@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dcc73119-3bec-4b4d-bbed-971f3e39bc0a" name="Default Changelist" comment="Added Camera and Aircraft input classes">
-      <change afterPath="$PROJECT_DIR$/CoordinatesCounter.Core/Calculations/CoordinatesCounter.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoordinatesCounter.Core/InputStructs/ObjectInputData.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CoordinatesCounter/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CoordinatesCounter/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CoordinatesCounter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CoordinatesCounter/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoordinatesCounter.Core/CoordinatesCounter.Core.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/CoordinatesCounter.Core/CoordinatesCounter.Core.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoordinatesCounter.Core/InputStructs/CameraInputData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CoordinatesCounter.Core/InputStructs/CameraInputData.cs" afterDir="false" />
-    </list>
+    <list default="true" id="dcc73119-3bec-4b4d-bbed-971f3e39bc0a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,12 +32,12 @@
             <state>
               <caret lean-forward="true" />
               <folding>
-                <marker date="1558189021193" expanded="true" signature="46:830" ph="{...}" />
-                <marker date="1558189021193" expanded="true" signature="82:828" ph="{...}" />
-                <marker date="1558189021193" expanded="true" signature="273:387" ph="{...}" />
-                <marker date="1558189021193" expanded="true" signature="412:526" ph="{...}" />
-                <marker date="1558189021193" expanded="true" signature="551:602" ph="{...}" />
-                <marker date="1558189021193" expanded="true" signature="694:822" ph="{...}" />
+                <marker date="1558192015837" expanded="true" signature="46:806" ph="{...}" />
+                <marker date="1558192015837" expanded="true" signature="82:804" ph="{...}" />
+                <marker date="1558192015837" expanded="true" signature="248:362" ph="{...}" />
+                <marker date="1558192015837" expanded="true" signature="388:502" ph="{...}" />
+                <marker date="1558192015837" expanded="true" signature="527:578" ph="{...}" />
+                <marker date="1558192015837" expanded="true" signature="670:798" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -53,16 +46,16 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CoordinatesCounter.Core/Calculations/CoordinatesCounter.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="802">
-              <caret line="52" column="78" lean-forward="true" selection-start-line="52" selection-start-column="78" selection-end-line="52" selection-end-column="78" />
+            <state relative-caret-position="2">
+              <caret line="30" column="103" lean-forward="true" selection-start-line="30" selection-start-column="103" selection-end-line="30" selection-end-column="103" />
               <folding>
-                <marker date="1558191920361" expanded="true" signature="6:77" ph="..." />
-                <marker date="1558191920361" expanded="true" signature="125:2513" ph="{...}" />
-                <marker date="1558191920361" expanded="true" signature="163:2511" ph="{...}" />
-                <marker date="1558191920361" expanded="true" signature="427:478" ph="{...}" />
-                <marker date="1558191920361" expanded="true" signature="502:553" ph="{...}" />
-                <marker date="1558191920361" expanded="true" signature="798:1023" ph="{...}" />
-                <marker date="1558191920361" expanded="true" signature="1087:2505" ph="{...}" />
+                <marker date="1558192015818" expanded="true" signature="6:77" ph="..." />
+                <marker date="1558192015818" expanded="true" signature="125:2545" ph="{...}" />
+                <marker date="1558192015818" expanded="true" signature="163:2543" ph="{...}" />
+                <marker date="1558192015818" expanded="true" signature="427:478" ph="{...}" />
+                <marker date="1558192015818" expanded="true" signature="502:553" ph="{...}" />
+                <marker date="1558192015818" expanded="true" signature="796:1021" ph="{...}" />
+                <marker date="1558192015818" expanded="true" signature="1085:2537" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -109,9 +102,9 @@
             <state relative-caret-position="336">
               <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
               <folding>
-                <marker date="1557651034714" expanded="true" signature="46:675" ph="{...}" />
-                <marker date="1557651034714" expanded="true" signature="82:673" ph="{...}" />
-                <marker date="1557651034714" expanded="true" signature="421:667" ph="{...}" />
+                <marker date="1558192015799" expanded="true" signature="46:667" ph="{...}" />
+                <marker date="1558192015799" expanded="true" signature="82:665" ph="{...}" />
+                <marker date="1558192015799" expanded="true" signature="413:659" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -260,7 +253,7 @@
       <updated>1557587471976</updated>
       <workItem from="1557587474545" duration="10406000" />
       <workItem from="1557644780285" duration="6533000" />
-      <workItem from="1558181674960" duration="6378000" />
+      <workItem from="1558181674960" duration="6865000" />
     </task>
     <task id="LOCAL-00001" summary="Created matrixes for camera regarding the aircraft and aircraft itself">
       <created>1557595672798</created>
@@ -283,11 +276,18 @@
       <option name="project" value="LOCAL" />
       <updated>1557649886301</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="-Added ObjectInputData class&#10;-Added Calculation functionality(not finished as i can understand)">
+      <created>1558192016491</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1558192016491</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23317000" />
+    <option name="totallyTimeSpent" value="23804000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -300,13 +300,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Build" sideWeight="0.49946696" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -317,12 +317,12 @@
       <window_info anchor="bottom" id="NuGet" order="7" weight="0.32936078" />
       <window_info anchor="bottom" id="Performance Profiler" order="8" weight="0.32936078" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="10" sideWeight="0.49946696" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Change Signature" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Unit Tests" order="13" />
       <window_info anchor="bottom" id="Terminal" order="14" />
-      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="15" sideWeight="0.50053304" side_tool="true" visible="true" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -337,11 +337,48 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created matrixes for camera regarding the aircraft and aircraft itself" />
     <MESSAGE value="Packages adding" />
     <MESSAGE value="Added Camera and Aircraft input classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Camera and Aircraft input classes" />
+    <MESSAGE value="-Added ObjectInputData class&#10;-Added Calculation functionality(not finished as i can understand)" />
+    <option name="LAST_COMMIT_MESSAGE" value="-Added ObjectInputData class&#10;-Added Calculation functionality(not finished as i can understand)" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -432,9 +469,9 @@
         <state relative-caret-position="336">
           <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
           <folding>
-            <marker date="1557651034714" expanded="true" signature="46:675" ph="{...}" />
-            <marker date="1557651034714" expanded="true" signature="82:673" ph="{...}" />
-            <marker date="1557651034714" expanded="true" signature="421:667" ph="{...}" />
+            <marker date="1558192015799" expanded="true" signature="46:667" ph="{...}" />
+            <marker date="1558192015799" expanded="true" signature="82:665" ph="{...}" />
+            <marker date="1558192015799" expanded="true" signature="413:659" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -444,28 +481,28 @@
         <state>
           <caret lean-forward="true" />
           <folding>
-            <marker date="1558189021193" expanded="true" signature="46:830" ph="{...}" />
-            <marker date="1558189021193" expanded="true" signature="82:828" ph="{...}" />
-            <marker date="1558189021193" expanded="true" signature="273:387" ph="{...}" />
-            <marker date="1558189021193" expanded="true" signature="412:526" ph="{...}" />
-            <marker date="1558189021193" expanded="true" signature="551:602" ph="{...}" />
-            <marker date="1558189021193" expanded="true" signature="694:822" ph="{...}" />
+            <marker date="1558192015837" expanded="true" signature="46:806" ph="{...}" />
+            <marker date="1558192015837" expanded="true" signature="82:804" ph="{...}" />
+            <marker date="1558192015837" expanded="true" signature="248:362" ph="{...}" />
+            <marker date="1558192015837" expanded="true" signature="388:502" ph="{...}" />
+            <marker date="1558192015837" expanded="true" signature="527:578" ph="{...}" />
+            <marker date="1558192015837" expanded="true" signature="670:798" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CoordinatesCounter.Core/Calculations/CoordinatesCounter.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="802">
-          <caret line="52" column="78" lean-forward="true" selection-start-line="52" selection-start-column="78" selection-end-line="52" selection-end-column="78" />
+        <state relative-caret-position="2">
+          <caret line="30" column="103" lean-forward="true" selection-start-line="30" selection-start-column="103" selection-end-line="30" selection-end-column="103" />
           <folding>
-            <marker date="1558191920361" expanded="true" signature="6:77" ph="..." />
-            <marker date="1558191920361" expanded="true" signature="125:2513" ph="{...}" />
-            <marker date="1558191920361" expanded="true" signature="163:2511" ph="{...}" />
-            <marker date="1558191920361" expanded="true" signature="427:478" ph="{...}" />
-            <marker date="1558191920361" expanded="true" signature="502:553" ph="{...}" />
-            <marker date="1558191920361" expanded="true" signature="798:1023" ph="{...}" />
-            <marker date="1558191920361" expanded="true" signature="1087:2505" ph="{...}" />
+            <marker date="1558192015818" expanded="true" signature="6:77" ph="..." />
+            <marker date="1558192015818" expanded="true" signature="125:2545" ph="{...}" />
+            <marker date="1558192015818" expanded="true" signature="163:2543" ph="{...}" />
+            <marker date="1558192015818" expanded="true" signature="427:478" ph="{...}" />
+            <marker date="1558192015818" expanded="true" signature="502:553" ph="{...}" />
+            <marker date="1558192015818" expanded="true" signature="796:1021" ph="{...}" />
+            <marker date="1558192015818" expanded="true" signature="1085:2537" ph="{...}" />
           </folding>
         </state>
       </provider>
