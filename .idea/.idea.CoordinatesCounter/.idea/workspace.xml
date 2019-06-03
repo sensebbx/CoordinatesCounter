@@ -1,26 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dcc73119-3bec-4b4d-bbed-971f3e39bc0a" name="Default Changelist" comment="" />
+    <list default="true" id="dcc73119-3bec-4b4d-bbed-971f3e39bc0a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CoordinatesCounter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CoordinatesCounter/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoordinatesCounter.Core/Calculations/CoordinatesCounter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CoordinatesCounter.Core/Calculations/CoordinatesCounter.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoordinatesCounter.Core/InputStructs/AircraftIpnutData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CoordinatesCounter.Core/InputStructs/AircraftIpnutData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoordinatesCounter.Core/InputStructs/CameraInputData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CoordinatesCounter.Core/InputStructs/CameraInputData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoordinatesCounter.Core/InputStructs/ObjectInputData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CoordinatesCounter.Core/InputStructs/ObjectInputData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoordinatesCounter.Core/Matrixes/AngleCameraOnPlaneMatrix.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CoordinatesCounter.Core/Matrixes/AngleCameraOnPlaneMatrix.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoordinatesCounter.Core/Matrixes/AngleCameraRegEarth.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CoordinatesCounter.Core/Matrixes/AngleCameraRegEarth.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoordinatesCounter.Core/Matrixes/AnglePlaneMatrix.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CoordinatesCounter.Core/Matrixes/AnglePlaneMatrix.cs" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CoordinatesCounter.Core/InputStructs/AircraftIpnutData.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+            <state relative-caret-position="200">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
               <folding>
-                <marker date="1557649885794" expanded="true" signature="46:504" ph="{...}" />
-                <marker date="1557649885794" expanded="true" signature="83:502" ph="{...}" />
-                <marker date="1557649885794" expanded="true" signature="194:279" ph="{...}" />
-                <marker date="1557649885794" expanded="true" signature="304:389" ph="{...}" />
-                <marker date="1557649885794" expanded="true" signature="413:496" ph="{...}" />
+                <marker date="1559545813062" expanded="true" signature="46:1004" ph="{...}" />
+                <marker date="1559545813062" expanded="true" signature="83:1002" ph="{...}" />
+                <marker date="1559545813062" expanded="true" signature="98:175" ph="///  ... " />
+                <marker date="1559545813062" expanded="true" signature="211:290" ph="///  ... " />
+                <marker date="1559545813062" expanded="true" signature="326:393" ph="///  ... " />
+                <marker date="1559545813062" expanded="true" signature="429:506" ph="///  ... " />
+                <marker date="1559545813062" expanded="true" signature="530:615" ph="{...}" />
+                <marker date="1559545813062" expanded="true" signature="625:704" ph="///  ... " />
+                <marker date="1559545813062" expanded="true" signature="728:813" ph="{...}" />
+                <marker date="1559545813062" expanded="true" signature="823:890" ph="///  ... " />
+                <marker date="1559545813062" expanded="true" signature="913:996" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -29,33 +58,52 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CoordinatesCounter.Core/InputStructs/ObjectInputData.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
+            <state relative-caret-position="424">
+              <caret line="60" column="19" lean-forward="true" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
               <folding>
-                <marker date="1558192015837" expanded="true" signature="46:806" ph="{...}" />
-                <marker date="1558192015837" expanded="true" signature="82:804" ph="{...}" />
-                <marker date="1558192015837" expanded="true" signature="248:362" ph="{...}" />
-                <marker date="1558192015837" expanded="true" signature="388:502" ph="{...}" />
-                <marker date="1558192015837" expanded="true" signature="527:578" ph="{...}" />
-                <marker date="1558192015837" expanded="true" signature="670:798" ph="{...}" />
+                <marker date="1559545113557" expanded="true" signature="46:1909" ph="{...}" />
+                <marker date="1559545113557" expanded="true" signature="53:119" ph="///  ... " />
+                <marker date="1559545113557" expanded="true" signature="153:1907" ph="{...}" />
+                <marker date="1559545113557" expanded="true" signature="168:242" ph="///  ... " />
+                <marker date="1559545113557" expanded="true" signature="310:402" ph="///  ... " />
+                <marker date="1559545113557" expanded="true" signature="435:529" ph="///  ... " />
+                <marker date="1559545113557" expanded="true" signature="562:633" ph="///  ... " />
+                <marker date="1559545113557" expanded="true" signature="670:782" ph="///  ... " />
+                <marker date="1559545113557" expanded="true" signature="807:921" ph="{...}" />
+                <marker date="1559545113557" expanded="true" signature="931:1045" ph="///  ... " />
+                <marker date="1559545113557" expanded="true" signature="1070:1184" ph="{...}" />
+                <marker date="1559545113557" expanded="true" signature="1194:1265" ph="///  ... " />
+                <marker date="1559545113557" expanded="true" signature="1289:1340" ph="{...}" />
+                <marker date="1559545113557" expanded="true" signature="1350:1682" ph="///  ... " />
+                <marker date="1559545113557" expanded="true" signature="1773:1901" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CoordinatesCounter.Core/Calculations/CoordinatesCounter.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2">
-              <caret line="30" column="103" lean-forward="true" selection-start-line="30" selection-start-column="103" selection-end-line="30" selection-end-column="103" />
+            <state relative-caret-position="243">
+              <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
               <folding>
-                <marker date="1558192015818" expanded="true" signature="6:77" ph="..." />
-                <marker date="1558192015818" expanded="true" signature="125:2545" ph="{...}" />
-                <marker date="1558192015818" expanded="true" signature="163:2543" ph="{...}" />
-                <marker date="1558192015818" expanded="true" signature="427:478" ph="{...}" />
-                <marker date="1558192015818" expanded="true" signature="502:553" ph="{...}" />
-                <marker date="1558192015818" expanded="true" signature="796:1021" ph="{...}" />
-                <marker date="1558192015818" expanded="true" signature="1085:2537" ph="{...}" />
+                <marker date="1559543333755" expanded="false" signature="6:77" ph="..." />
+                <marker date="1559543333755" expanded="true" signature="125:3908" ph="{...}" />
+                <marker date="1559543333755" expanded="true" signature="132:208" ph="///  ... " />
+                <marker date="1559543333755" expanded="true" signature="244:3906" ph="{...}" />
+                <marker date="1559543333755" expanded="true" signature="259:361" ph="///  ... " />
+                <marker date="1559543333755" expanded="true" signature="437:514" ph="/// Contains aircraft parameters ... " />
+                <marker date="1559543333755" expanded="true" signature="586:661" ph="/// Contains camera parameters ... " />
+                <marker date="1559543333755" expanded="true" signature="730:832" ph="/// Output of agorithm, Y coordinate of object in &quot;CK-90&quot; ... " />
+                <marker date="1559543333755" expanded="true" signature="867:971" ph="/// Output of algorithm, Y coordinate of object in  &quot;CK-90&quot; ... " />
+                <marker date="1559543333755" expanded="true" signature="1007:1089" ph="/// X coordinate of object in &quot;CK-90&quot; ... " />
+                <marker date="1559543333755" expanded="true" signature="1112:1163" ph="{...}" />
+                <marker date="1559543333755" expanded="true" signature="1172:1254" ph="/// Y coordinate of object in &quot;CK-90&quot; ... " />
+                <marker date="1559543333755" expanded="true" signature="1277:1328" ph="{...}" />
+                <marker date="1559543333755" expanded="true" signature="1337:1734" ph="/// Constructor ... " />
+                <marker date="1559543333755" expanded="true" signature="1976:2201" ph="{...}" />
+                <marker date="1559543333755" expanded="true" signature="2210:2385" ph="/// Main core function that calculating coordinates of objects ... " />
+                <marker date="1559543333755" expanded="true" signature="2448:3900" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -64,14 +112,18 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CoordinatesCounter.Core/Matrixes/AngleCameraRegEarth.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+            <state relative-caret-position="80">
+              <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="56" />
               <folding>
-                <marker date="1557596149644" expanded="false" signature="6:32" ph="..." />
-                <marker date="1557596149644" expanded="true" signature="67:447" ph="{...}" />
-                <marker date="1557596149644" expanded="true" signature="106:445" ph="{...}" />
-                <marker date="1557596149644" expanded="true" signature="180:236" ph="{...}" />
-                <marker date="1557596149644" expanded="true" signature="348:439" ph="{...}" />
+                <marker date="1559544081831" expanded="false" signature="6:32" ph="..." />
+                <marker date="1559544081831" expanded="true" signature="67:964" ph="{...}" />
+                <marker date="1559544081831" expanded="true" signature="74:163" ph="///  ... " />
+                <marker date="1559544081831" expanded="true" signature="200:962" ph="{...}" />
+                <marker date="1559544081831" expanded="true" signature="215:303" ph="///  ... " />
+                <marker date="1559544081831" expanded="true" signature="348:436" ph="///  ... " />
+                <marker date="1559544081831" expanded="true" signature="468:524" ph="{...}" />
+                <marker date="1559544081831" expanded="true" signature="534:754" ph="///  ... " />
+                <marker date="1559544081831" expanded="true" signature="865:956" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -80,17 +132,21 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CoordinatesCounter.Core/Matrixes/AngleCameraOnPlaneMatrix.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="5" column="41" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="41" />
+            <state relative-caret-position="915">
+              <caret line="62" column="1" lean-forward="true" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
               <folding>
-                <marker date="1557596604574" expanded="false" signature="6:32" ph="..." />
-                <marker date="1557596604574" expanded="true" signature="67:1769" ph="{...}" />
-                <marker date="1557596604574" expanded="true" signature="111:1767" ph="{...}" />
-                <marker date="1557596604574" expanded="true" signature="209:265" ph="{...}" />
-                <marker date="1557596604574" expanded="true" signature="354:1761" ph="{...}" />
-                <marker date="1557596604574" expanded="true" signature="418:898" ph="{...}" />
-                <marker date="1557596604574" expanded="true" signature="489:859" ph="{...}" />
-                <marker date="1557596604574" expanded="true" signature="960:1747" ph="{...}" />
+                <marker date="1559543936067" expanded="false" signature="6:32" ph="..." />
+                <marker date="1559543936067" expanded="true" signature="67:2264" ph="{...}" />
+                <marker date="1559543936067" expanded="true" signature="74:166" ph="///  ... " />
+                <marker date="1559543936067" expanded="true" signature="208:2262" ph="{...}" />
+                <marker date="1559543936067" expanded="true" signature="223:294" ph="///  ... " />
+                <marker date="1559543936067" expanded="true" signature="351:422" ph="///  ... " />
+                <marker date="1559543936067" expanded="true" signature="466:522" ph="{...}" />
+                <marker date="1559543936067" expanded="true" signature="540:769" ph="///  ... " />
+                <marker date="1559543936067" expanded="true" signature="849:2256" ph="{...}" />
+                <marker date="1559543936067" expanded="true" signature="913:1393" ph="{...}" />
+                <marker date="1559543936067" expanded="true" signature="984:1354" ph="{...}" />
+                <marker date="1559543936067" expanded="true" signature="1455:2242" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -99,12 +155,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CoordinatesCounter.Core/InputStructs/CameraInputData.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="-16">
+              <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
               <folding>
-                <marker date="1558192015799" expanded="true" signature="46:667" ph="{...}" />
-                <marker date="1558192015799" expanded="true" signature="82:665" ph="{...}" />
-                <marker date="1558192015799" expanded="true" signature="413:659" ph="{...}" />
+                <marker date="1559545813041" expanded="true" signature="46:1783" ph="{...}" />
+                <marker date="1559545813041" expanded="true" signature="82:1781" ph="{...}" />
+                <marker date="1559545813041" expanded="true" signature="97:176" ph="///  ... " />
+                <marker date="1559545813041" expanded="true" signature="217:298" ph="///  ... " />
+                <marker date="1559545813041" expanded="true" signature="339:432" ph="/// Distance between two pixels on vertical axis ... " />
+                <marker date="1559545813041" expanded="true" signature="478:573" ph="/// Distance between two pixels on horizontal axis ... " />
+                <marker date="1559545813041" expanded="true" signature="620:691" ph="///  ... " />
+                <marker date="1559545813041" expanded="true" signature="733:830" ph="///  ... " />
+                <marker date="1559545813041" expanded="true" signature="872:971" ph="///  ... " />
+                <marker date="1559545813041" expanded="true" signature="1014:1443" ph="///  ... " />
+                <marker date="1559545813041" expanded="true" signature="1529:1775" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -113,15 +177,19 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CoordinatesCounter.Core/Matrixes/AnglePlaneMatrix.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="496">
-              <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+            <state relative-caret-position="-160">
+              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
               <folding>
-                <marker date="1557594374607" expanded="false" signature="6:32" ph="..." />
-                <marker date="1557594374607" expanded="true" signature="67:1213" ph="{...}" />
-                <marker date="1557594374607" expanded="true" signature="103:1211" ph="{...}" />
-                <marker date="1557594374607" expanded="true" signature="201:257" ph="{...}" />
-                <marker date="1557594374607" expanded="true" signature="330:1187" ph="{...}" />
-                <marker date="1557594374607" expanded="true" signature="389:1176" ph="{...}" />
+                <marker date="1559543606060" expanded="false" signature="6:32" ph="..." />
+                <marker date="1559543606060" expanded="true" signature="67:1725" ph="{...}" />
+                <marker date="1559543606060" expanded="true" signature="74:178" ph="///  ... " />
+                <marker date="1559543606060" expanded="true" signature="212:1723" ph="{...}" />
+                <marker date="1559543606060" expanded="true" signature="227:292" ph="///  ... " />
+                <marker date="1559543606060" expanded="true" signature="349:431" ph="///  ... " />
+                <marker date="1559543606060" expanded="true" signature="475:531" ph="{...}" />
+                <marker date="1559543606060" expanded="true" signature="541:770" ph="/// Constructor ... " />
+                <marker date="1559543606060" expanded="true" signature="842:1699" ph="{...}" />
+                <marker date="1559543606060" expanded="true" signature="901:1688" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -137,6 +205,11 @@
     </option>
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="developing" />
+      </map>
+    </option>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/CoordinatesCounter.Core/Calculations/CoordinatesCounter.cs" root0="FORCE_HIGHLIGHTING" />
@@ -155,18 +228,19 @@
         <option value="$PROJECT_DIR$/CoordinatesCounter.Core/Class1.cs" />
         <option value="$PROJECT_DIR$/CoordinatesCounter.Core/AnglePlaneMatrix.cs" />
         <option value="$PROJECT_DIR$/CoordinatesCounter.Core/AngleCameraOnPlaneMatrix.cs" />
-        <option value="$PROJECT_DIR$/CoordinatesCounter.Core/Matrixes/AngleCameraRegEarth.cs" />
-        <option value="$PROJECT_DIR$/CoordinatesCounter.Core/Matrixes/AngleCameraOnPlaneMatrix.cs" />
         <option value="$PROJECT_DIR$/packages/Accord.3.8.2-alpha/build/Calculations/InputData.cs" />
         <option value="$PROJECT_DIR$/CoordinatesCounter.Core/InputStructs/Aircraft.cs" />
-        <option value="$PROJECT_DIR$/CoordinatesCounter.Core/InputStructs/AircraftIpnutData.cs" />
-        <option value="$PROJECT_DIR$/CoordinatesCounter.Core/InputStructs/CameraInputData.cs" />
-        <option value="$PROJECT_DIR$/CoordinatesCounter.Core/InputStructs/ObjectInputData.cs" />
         <option value="$PROJECT_DIR$/CoordinatesCounter.Core/Calculations/CoordinatesCounter.cs" />
+        <option value="$PROJECT_DIR$/CoordinatesCounter.Core/Matrixes/AnglePlaneMatrix.cs" />
+        <option value="$PROJECT_DIR$/CoordinatesCounter.Core/Matrixes/AngleCameraRegEarth.cs" />
+        <option value="$PROJECT_DIR$/CoordinatesCounter.Core/Matrixes/AngleCameraOnPlaneMatrix.cs" />
+        <option value="$PROJECT_DIR$/CoordinatesCounter.Core/InputStructs/ObjectInputData.cs" />
+        <option value="$PROJECT_DIR$/CoordinatesCounter.Core/InputStructs/CameraInputData.cs" />
+        <option value="$PROJECT_DIR$/CoordinatesCounter.Core/InputStructs/AircraftIpnutData.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -227,6 +301,7 @@
     <property name="last_opened_file_path" value="$USER_HOME$/Documents/GitHub/SmokeDead" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -254,6 +329,9 @@
       <workItem from="1557587474545" duration="10406000" />
       <workItem from="1557644780285" duration="6533000" />
       <workItem from="1558181674960" duration="6865000" />
+      <workItem from="1558380756872" duration="605000" />
+      <workItem from="1559509381553" duration="923000" />
+      <workItem from="1559542327012" duration="3480000" />
     </task>
     <task id="LOCAL-00001" summary="Created matrixes for camera regarding the aircraft and aircraft itself">
       <created>1557595672798</created>
@@ -287,7 +365,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23804000" />
+    <option name="totallyTimeSpent" value="28812000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -299,14 +377,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14658849" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Build" sideWeight="0.49946696" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -314,15 +392,16 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32936078" />
+      <window_info anchor="bottom" id="NuGet" order="7" sideWeight="0.49946696" weight="0.3288889" />
       <window_info anchor="bottom" id="Performance Profiler" order="8" weight="0.32936078" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="10" sideWeight="0.49946696" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.4978678" weight="0.33777776" />
       <window_info anchor="bottom" id="Change Signature" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unit Tests" order="13" />
       <window_info anchor="bottom" id="Terminal" order="14" />
-      <window_info anchor="bottom" id="Event Log" order="15" sideWeight="0.50053304" side_tool="true" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="15" sideWeight="0.50053304" side_tool="true" weight="0.33777776" />
+      <window_info anchor="bottom" id="Build" order="16" sideWeight="0.49946696" visible="true" weight="0.3005076" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -372,6 +451,20 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created matrixes for camera regarding the aircraft and aircraft itself" />
@@ -404,105 +497,150 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/packages/Accord.3.8.2-alpha/build/Calculations/InputData.cs" />
     <entry file="file://$PROJECT_DIR$/CoordinatesCounter.Core/InputStructs/Aircraft.cs" />
-    <entry file="file://$PROJECT_DIR$/CoordinatesCounter.Core/Matrixes/AngleCameraRegEarth.cs">
+    <entry file="file://$PROJECT_DIR$/CoordinatesCounter.Core/Calculations/CoordinatesCounter.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        <state relative-caret-position="243">
+          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
           <folding>
-            <marker date="1557596149644" expanded="false" signature="6:32" ph="..." />
-            <marker date="1557596149644" expanded="true" signature="67:447" ph="{...}" />
-            <marker date="1557596149644" expanded="true" signature="106:445" ph="{...}" />
-            <marker date="1557596149644" expanded="true" signature="180:236" ph="{...}" />
-            <marker date="1557596149644" expanded="true" signature="348:439" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CoordinatesCounter.Core/Matrixes/AngleCameraOnPlaneMatrix.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="5" column="41" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="41" />
-          <folding>
-            <marker date="1557596604574" expanded="false" signature="6:32" ph="..." />
-            <marker date="1557596604574" expanded="true" signature="67:1769" ph="{...}" />
-            <marker date="1557596604574" expanded="true" signature="111:1767" ph="{...}" />
-            <marker date="1557596604574" expanded="true" signature="209:265" ph="{...}" />
-            <marker date="1557596604574" expanded="true" signature="354:1761" ph="{...}" />
-            <marker date="1557596604574" expanded="true" signature="418:898" ph="{...}" />
-            <marker date="1557596604574" expanded="true" signature="489:859" ph="{...}" />
-            <marker date="1557596604574" expanded="true" signature="960:1747" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CoordinatesCounter.Core/InputStructs/AircraftIpnutData.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-          <folding>
-            <marker date="1557649885794" expanded="true" signature="46:504" ph="{...}" />
-            <marker date="1557649885794" expanded="true" signature="83:502" ph="{...}" />
-            <marker date="1557649885794" expanded="true" signature="194:279" ph="{...}" />
-            <marker date="1557649885794" expanded="true" signature="304:389" ph="{...}" />
-            <marker date="1557649885794" expanded="true" signature="413:496" ph="{...}" />
+            <marker date="1559543333755" expanded="false" signature="6:77" ph="..." />
+            <marker date="1559543333755" expanded="true" signature="125:3908" ph="{...}" />
+            <marker date="1559543333755" expanded="true" signature="132:208" ph="///  ... " />
+            <marker date="1559543333755" expanded="true" signature="244:3906" ph="{...}" />
+            <marker date="1559543333755" expanded="true" signature="259:361" ph="///  ... " />
+            <marker date="1559543333755" expanded="true" signature="437:514" ph="/// Contains aircraft parameters ... " />
+            <marker date="1559543333755" expanded="true" signature="586:661" ph="/// Contains camera parameters ... " />
+            <marker date="1559543333755" expanded="true" signature="730:832" ph="/// Output of agorithm, Y coordinate of object in &quot;CK-90&quot; ... " />
+            <marker date="1559543333755" expanded="true" signature="867:971" ph="/// Output of algorithm, Y coordinate of object in  &quot;CK-90&quot; ... " />
+            <marker date="1559543333755" expanded="true" signature="1007:1089" ph="/// X coordinate of object in &quot;CK-90&quot; ... " />
+            <marker date="1559543333755" expanded="true" signature="1112:1163" ph="{...}" />
+            <marker date="1559543333755" expanded="true" signature="1172:1254" ph="/// Y coordinate of object in &quot;CK-90&quot; ... " />
+            <marker date="1559543333755" expanded="true" signature="1277:1328" ph="{...}" />
+            <marker date="1559543333755" expanded="true" signature="1337:1734" ph="/// Constructor ... " />
+            <marker date="1559543333755" expanded="true" signature="1976:2201" ph="{...}" />
+            <marker date="1559543333755" expanded="true" signature="2210:2385" ph="/// Main core function that calculating coordinates of objects ... " />
+            <marker date="1559543333755" expanded="true" signature="2448:3900" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CoordinatesCounter.Core/Matrixes/AnglePlaneMatrix.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+        <state relative-caret-position="-160">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
           <folding>
-            <marker date="1557594374607" expanded="false" signature="6:32" ph="..." />
-            <marker date="1557594374607" expanded="true" signature="67:1213" ph="{...}" />
-            <marker date="1557594374607" expanded="true" signature="103:1211" ph="{...}" />
-            <marker date="1557594374607" expanded="true" signature="201:257" ph="{...}" />
-            <marker date="1557594374607" expanded="true" signature="330:1187" ph="{...}" />
-            <marker date="1557594374607" expanded="true" signature="389:1176" ph="{...}" />
+            <marker date="1559543606060" expanded="false" signature="6:32" ph="..." />
+            <marker date="1559543606060" expanded="true" signature="67:1725" ph="{...}" />
+            <marker date="1559543606060" expanded="true" signature="74:178" ph="///  ... " />
+            <marker date="1559543606060" expanded="true" signature="212:1723" ph="{...}" />
+            <marker date="1559543606060" expanded="true" signature="227:292" ph="///  ... " />
+            <marker date="1559543606060" expanded="true" signature="349:431" ph="///  ... " />
+            <marker date="1559543606060" expanded="true" signature="475:531" ph="{...}" />
+            <marker date="1559543606060" expanded="true" signature="541:770" ph="/// Constructor ... " />
+            <marker date="1559543606060" expanded="true" signature="842:1699" ph="{...}" />
+            <marker date="1559543606060" expanded="true" signature="901:1688" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CoordinatesCounter.Core/InputStructs/CameraInputData.cs">
+    <entry file="file://$PROJECT_DIR$/CoordinatesCounter.Core/Matrixes/AngleCameraRegEarth.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="80">
+          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="56" />
           <folding>
-            <marker date="1558192015799" expanded="true" signature="46:667" ph="{...}" />
-            <marker date="1558192015799" expanded="true" signature="82:665" ph="{...}" />
-            <marker date="1558192015799" expanded="true" signature="413:659" ph="{...}" />
+            <marker date="1559544081831" expanded="false" signature="6:32" ph="..." />
+            <marker date="1559544081831" expanded="true" signature="67:964" ph="{...}" />
+            <marker date="1559544081831" expanded="true" signature="74:163" ph="///  ... " />
+            <marker date="1559544081831" expanded="true" signature="200:962" ph="{...}" />
+            <marker date="1559544081831" expanded="true" signature="215:303" ph="///  ... " />
+            <marker date="1559544081831" expanded="true" signature="348:436" ph="///  ... " />
+            <marker date="1559544081831" expanded="true" signature="468:524" ph="{...}" />
+            <marker date="1559544081831" expanded="true" signature="534:754" ph="///  ... " />
+            <marker date="1559544081831" expanded="true" signature="865:956" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoordinatesCounter.Core/Matrixes/AngleCameraOnPlaneMatrix.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="62" column="1" lean-forward="true" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
+          <folding>
+            <marker date="1559543936067" expanded="false" signature="6:32" ph="..." />
+            <marker date="1559543936067" expanded="true" signature="67:2264" ph="{...}" />
+            <marker date="1559543936067" expanded="true" signature="74:166" ph="///  ... " />
+            <marker date="1559543936067" expanded="true" signature="208:2262" ph="{...}" />
+            <marker date="1559543936067" expanded="true" signature="223:294" ph="///  ... " />
+            <marker date="1559543936067" expanded="true" signature="351:422" ph="///  ... " />
+            <marker date="1559543936067" expanded="true" signature="466:522" ph="{...}" />
+            <marker date="1559543936067" expanded="true" signature="540:769" ph="///  ... " />
+            <marker date="1559543936067" expanded="true" signature="849:2256" ph="{...}" />
+            <marker date="1559543936067" expanded="true" signature="913:1393" ph="{...}" />
+            <marker date="1559543936067" expanded="true" signature="984:1354" ph="{...}" />
+            <marker date="1559543936067" expanded="true" signature="1455:2242" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CoordinatesCounter.Core/InputStructs/ObjectInputData.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
+        <state relative-caret-position="424">
+          <caret line="60" column="19" lean-forward="true" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
           <folding>
-            <marker date="1558192015837" expanded="true" signature="46:806" ph="{...}" />
-            <marker date="1558192015837" expanded="true" signature="82:804" ph="{...}" />
-            <marker date="1558192015837" expanded="true" signature="248:362" ph="{...}" />
-            <marker date="1558192015837" expanded="true" signature="388:502" ph="{...}" />
-            <marker date="1558192015837" expanded="true" signature="527:578" ph="{...}" />
-            <marker date="1558192015837" expanded="true" signature="670:798" ph="{...}" />
+            <marker date="1559545113557" expanded="true" signature="46:1909" ph="{...}" />
+            <marker date="1559545113557" expanded="true" signature="53:119" ph="///  ... " />
+            <marker date="1559545113557" expanded="true" signature="153:1907" ph="{...}" />
+            <marker date="1559545113557" expanded="true" signature="168:242" ph="///  ... " />
+            <marker date="1559545113557" expanded="true" signature="310:402" ph="///  ... " />
+            <marker date="1559545113557" expanded="true" signature="435:529" ph="///  ... " />
+            <marker date="1559545113557" expanded="true" signature="562:633" ph="///  ... " />
+            <marker date="1559545113557" expanded="true" signature="670:782" ph="///  ... " />
+            <marker date="1559545113557" expanded="true" signature="807:921" ph="{...}" />
+            <marker date="1559545113557" expanded="true" signature="931:1045" ph="///  ... " />
+            <marker date="1559545113557" expanded="true" signature="1070:1184" ph="{...}" />
+            <marker date="1559545113557" expanded="true" signature="1194:1265" ph="///  ... " />
+            <marker date="1559545113557" expanded="true" signature="1289:1340" ph="{...}" />
+            <marker date="1559545113557" expanded="true" signature="1350:1682" ph="///  ... " />
+            <marker date="1559545113557" expanded="true" signature="1773:1901" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CoordinatesCounter.Core/Calculations/CoordinatesCounter.cs">
+    <entry file="file://$PROJECT_DIR$/CoordinatesCounter.Core/InputStructs/CameraInputData.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2">
-          <caret line="30" column="103" lean-forward="true" selection-start-line="30" selection-start-column="103" selection-end-line="30" selection-end-column="103" />
+        <state relative-caret-position="-16">
+          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
           <folding>
-            <marker date="1558192015818" expanded="true" signature="6:77" ph="..." />
-            <marker date="1558192015818" expanded="true" signature="125:2545" ph="{...}" />
-            <marker date="1558192015818" expanded="true" signature="163:2543" ph="{...}" />
-            <marker date="1558192015818" expanded="true" signature="427:478" ph="{...}" />
-            <marker date="1558192015818" expanded="true" signature="502:553" ph="{...}" />
-            <marker date="1558192015818" expanded="true" signature="796:1021" ph="{...}" />
-            <marker date="1558192015818" expanded="true" signature="1085:2537" ph="{...}" />
+            <marker date="1559545813041" expanded="true" signature="46:1783" ph="{...}" />
+            <marker date="1559545813041" expanded="true" signature="82:1781" ph="{...}" />
+            <marker date="1559545813041" expanded="true" signature="97:176" ph="///  ... " />
+            <marker date="1559545813041" expanded="true" signature="217:298" ph="///  ... " />
+            <marker date="1559545813041" expanded="true" signature="339:432" ph="/// Distance between two pixels on vertical axis ... " />
+            <marker date="1559545813041" expanded="true" signature="478:573" ph="/// Distance between two pixels on horizontal axis ... " />
+            <marker date="1559545813041" expanded="true" signature="620:691" ph="///  ... " />
+            <marker date="1559545813041" expanded="true" signature="733:830" ph="///  ... " />
+            <marker date="1559545813041" expanded="true" signature="872:971" ph="///  ... " />
+            <marker date="1559545813041" expanded="true" signature="1014:1443" ph="///  ... " />
+            <marker date="1559545813041" expanded="true" signature="1529:1775" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoordinatesCounter.Core/InputStructs/AircraftIpnutData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <marker date="1559545813062" expanded="true" signature="46:1004" ph="{...}" />
+            <marker date="1559545813062" expanded="true" signature="83:1002" ph="{...}" />
+            <marker date="1559545813062" expanded="true" signature="98:175" ph="///  ... " />
+            <marker date="1559545813062" expanded="true" signature="211:290" ph="///  ... " />
+            <marker date="1559545813062" expanded="true" signature="326:393" ph="///  ... " />
+            <marker date="1559545813062" expanded="true" signature="429:506" ph="///  ... " />
+            <marker date="1559545813062" expanded="true" signature="530:615" ph="{...}" />
+            <marker date="1559545813062" expanded="true" signature="625:704" ph="///  ... " />
+            <marker date="1559545813062" expanded="true" signature="728:813" ph="{...}" />
+            <marker date="1559545813062" expanded="true" signature="823:890" ph="///  ... " />
+            <marker date="1559545813062" expanded="true" signature="913:996" ph="{...}" />
           </folding>
         </state>
       </provider>
