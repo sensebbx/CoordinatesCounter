@@ -1,4 +1,4 @@
-using System.Collections.Generic;
+using System;
 using CoordinatesCounter.Core.InputStructs;
 
 namespace CoordinatesCounter.Core.Calculations
@@ -16,7 +16,7 @@ namespace CoordinatesCounter.Core.Calculations
         /// <summary>
         /// Contains aircraft parameters
         /// </summary>
-        private readonly AircraftIpnutData _aircraftIpnutData;
+        private AircraftIpnutData _aircraftIpnutData;
 
         /// <summary>
         /// Contains camera parameters
@@ -32,6 +32,11 @@ namespace CoordinatesCounter.Core.Calculations
         /// Output of algorithm, Y coordinate of object in  "CK-90"
         /// </summary>
         private float _y;
+
+        /// <summary>
+        /// Size of an object
+        /// </summary>
+        private float _l;
 
         /// <summary>
         /// X coordinate of object in "CK-90"
@@ -50,6 +55,14 @@ namespace CoordinatesCounter.Core.Calculations
         }
 
         /// <summary>
+        /// Size of an object
+        /// </summary>
+        public float L
+        {
+            get { return _l; }
+        }
+
+        /// <summary>
         /// Constructor
         /// </summary>
         /// <param name="anglePlaneMatrix">Contains plane angle matrix</param>
@@ -59,7 +72,7 @@ namespace CoordinatesCounter.Core.Calculations
         public CoordinatesCounter(ref AnglePlaneMatrix anglePlaneMatrix,
             ref AngleCameraOnPlaneMatrix angleCameraOnPlaneMatrix,
             ref CameraInputData cameraInputData,
-            ref AircraftIpnutData aircraftIpnutData)
+            AircraftIpnutData aircraftIpnutData)
         {
             _angleCameraRegEarth = new AngleCameraRegEarth(anglePlaneMatrix, angleCameraOnPlaneMatrix);
 
@@ -73,7 +86,11 @@ namespace CoordinatesCounter.Core.Calculations
         /// <param name="objectInputData">Input object data</param>
         public void Calculate(ObjectInputData objectInputData)
         {
-            _x = (float) (_aircraftIpnutData.XS -
+            float x1,
+                y1,
+                x2,
+                y2;
+            x1 = (float) (_aircraftIpnutData.XS -
                           (_aircraftIpnutData.H - objectInputData.Hs) *
                           ((objectInputData.Xob - _cameraInputData.X0) * _angleCameraRegEarth.Matrix.V00 +
                            (objectInputData.Yob - _cameraInputData.Y0) * _angleCameraRegEarth.Matrix.V01 -
@@ -81,7 +98,7 @@ namespace CoordinatesCounter.Core.Calculations
                           ((objectInputData.Xob - _cameraInputData.X0) * _angleCameraRegEarth.Matrix.V20 +
                            (objectInputData.Yob - _cameraInputData.Y0) * _angleCameraRegEarth.Matrix.V21 -
                            _cameraInputData.F * _angleCameraRegEarth.Matrix.V22));
-            _y = (float) (_aircraftIpnutData.XS -
+            y1 = (float) (_aircraftIpnutData.XS -
                           (_aircraftIpnutData.H - objectInputData.Hs) *
                           ((objectInputData.Xob - _cameraInputData.X0) * _angleCameraRegEarth.Matrix.V10 +
                            (objectInputData.Yob - _cameraInputData.Y0) * _angleCameraRegEarth.Matrix.V11 -
@@ -89,6 +106,32 @@ namespace CoordinatesCounter.Core.Calculations
                           ((objectInputData.Xob - _cameraInputData.X0) * _angleCameraRegEarth.Matrix.V20 +
                            (objectInputData.Yob - _cameraInputData.Y0) * _angleCameraRegEarth.Matrix.V21 -
                            _cameraInputData.F * _angleCameraRegEarth.Matrix.V22));
+
+            _aircraftIpnutData.XS += _aircraftIpnutData.VX;
+            _aircraftIpnutData.VY += _aircraftIpnutData.VY;
+
+            x2 = (float) (_aircraftIpnutData.XS -
+                          (_aircraftIpnutData.H - objectInputData.Hs) *
+                          ((objectInputData.Xob - _cameraInputData.X0) * _angleCameraRegEarth.Matrix.V00 +
+                           (objectInputData.Yob - _cameraInputData.Y0) * _angleCameraRegEarth.Matrix.V01 -
+                           _cameraInputData.F * _angleCameraRegEarth.Matrix.V02) /
+                          ((objectInputData.Xob - _cameraInputData.X0) * _angleCameraRegEarth.Matrix.V20 +
+                           (objectInputData.Yob - _cameraInputData.Y0) * _angleCameraRegEarth.Matrix.V21 -
+                           _cameraInputData.F * _angleCameraRegEarth.Matrix.V22));
+
+            y2 = (float) (_aircraftIpnutData.XS -
+                          (_aircraftIpnutData.H - objectInputData.Hs) *
+                          ((objectInputData.Xob - _cameraInputData.X0) * _angleCameraRegEarth.Matrix.V10 +
+                           (objectInputData.Yob - _cameraInputData.Y0) * _angleCameraRegEarth.Matrix.V11 -
+                           _cameraInputData.F * _angleCameraRegEarth.Matrix.V12) /
+                          ((objectInputData.Xob - _cameraInputData.X0) * _angleCameraRegEarth.Matrix.V20 +
+                           (objectInputData.Yob - _cameraInputData.Y0) * _angleCameraRegEarth.Matrix.V21 -
+                           _cameraInputData.F * _angleCameraRegEarth.Matrix.V22));
+
+            _x = (x2 + x1) / 2;
+            _y = (y2 + y1) / 2;
+
+            _l = (float) Math.Sqrt((x1 - x2) * (x1 - x2) + (y1 - y2) * (y1 - y2));
         }
     }
 }
