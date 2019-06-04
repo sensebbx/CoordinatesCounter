@@ -1,4 +1,3 @@
-using System;
 using Accord.Math;
 
 namespace CoordinatesCounter.Core

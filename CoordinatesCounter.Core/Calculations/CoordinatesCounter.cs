@@ -1,4 +1,3 @@
-using System.Collections.Generic;
 using CoordinatesCounter.Core.InputStructs;
 
 namespace CoordinatesCounter.Core.Calculations

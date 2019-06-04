@@ -1,16 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Shapes;
 
 namespace Interface
 {
@@ -22,6 +11,43 @@ namespace Interface
         public LAParameters()
         {
             InitializeComponent();
+        }
+
+        private void OK_Click(object sender, RoutedEventArgs e)
+        {
+            string flightHeigh = this.flightHeigh.Text;
+            string flightHeighChange = this.flightHeighChange.Text;
+            string speedProection = this.speedProection.Text;
+            string angularPositionLA = this.angularPositionLA.Text;
+
+            if (InputCheck.CheckInputLAData(flightHeighChange, speedProection, angularPositionLA))
+            {
+                string[] speedProectionArr = speedProection.Split(':');
+                string[] angularPositionLAArr = angularPositionLA.Split(':');
+
+                int i = 0;
+                int[] speedProectionArrInt = new int[speedProectionArr.Length];
+
+                foreach (string s in speedProectionArr)
+                {
+                    speedProectionArrInt[i] = Convert.ToInt32(s);
+                    ++i;
+                }
+
+                i = 0;
+                int[] angularPositionLAArrInt = new int[angularPositionLAArr.Length];
+
+                foreach (string s in angularPositionLAArr)
+                {
+                    angularPositionLAArrInt[i] = Convert.ToInt32(s);
+                    ++i;
+                }
+
+                int flightHeighInt = Convert.ToInt32(flightHeigh);
+                int flightHeighChangeInt = Convert.ToInt32(flightHeighChange);
+
+                //TODO: передать данные в ядро
+            }
         }
     }
 }
