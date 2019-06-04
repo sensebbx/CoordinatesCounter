@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="dcc73119-3bec-4b4d-bbed-971f3e39bc0a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CoordinatesCounter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CoordinatesCounter/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoordinatesCounter.Core/Calculations/CoordinatesCounter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CoordinatesCounter.Core/Calculations/CoordinatesCounter.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoordinatesCounter.Core/InputStructs/AircraftIpnutData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CoordinatesCounter.Core/InputStructs/AircraftIpnutData.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,27 +30,27 @@
         <entry file="file://$PROJECT_DIR$/CoordinatesCounter.Core/InputStructs/AircraftIpnutData.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1232">
-              <caret line="77" column="1" lean-forward="true" selection-start-line="77" selection-start-column="1" selection-end-line="77" selection-end-column="1" />
+              <caret line="84" column="1" lean-forward="true" selection-start-line="84" selection-start-column="1" selection-end-line="84" selection-end-column="1" />
               <folding>
-                <marker date="1559593228427" expanded="true" signature="61:1822" ph="{...}" />
-                <marker date="1559593228427" expanded="true" signature="98:1820" ph="{...}" />
-                <marker date="1559593228427" expanded="true" signature="113:190" ph="/// Vertical aircraft coordinate ... " />
-                <marker date="1559593228427" expanded="true" signature="226:305" ph="/// Horizontal aircraft coordinate ... " />
-                <marker date="1559593228427" expanded="true" signature="341:405" ph="/// Flight altitude ... " />
-                <marker date="1559593228427" expanded="true" signature="441:517" ph="/// X axis velocity of aircraft ... " />
-                <marker date="1559593228427" expanded="true" signature="553:629" ph="///  ... " />
-                <marker date="1559593228427" expanded="true" signature="666:743" ph="/// Vertical aircraft coordinate ... " />
-                <marker date="1559593228427" expanded="true" signature="767:852" ph="{...}" />
-                <marker date="1559593228427" expanded="true" signature="861:940" ph="/// Horizontal aircraft coordinate ... " />
-                <marker date="1559593228427" expanded="true" signature="964:1049" ph="{...}" />
-                <marker date="1559593228427" expanded="true" signature="1058:1122" ph="/// Flight altitude ... " />
-                <marker date="1559593228427" expanded="true" signature="1145:1228" ph="{...}" />
-                <marker date="1559593228427" expanded="true" signature="1238:1314" ph="///  ... " />
-                <marker date="1559593228427" expanded="true" signature="1338:1423" ph="{...}" />
-                <marker date="1559593228427" expanded="true" signature="1432:1508" ph="///  ... " />
-                <marker date="1559593228427" expanded="true" signature="1532:1617" ph="{...}" />
-                <marker date="1559593228427" expanded="true" signature="1626:1695" ph="///  ... " />
-                <marker date="1559593228427" expanded="true" signature="1725:1814" ph="{...}" />
+                <marker date="1559594451209" expanded="true" signature="61:1829" ph="{...}" />
+                <marker date="1559594451209" expanded="true" signature="98:1827" ph="{...}" />
+                <marker date="1559594451209" expanded="true" signature="113:190" ph="/// Vertical aircraft coordinate ... " />
+                <marker date="1559594451209" expanded="true" signature="227:306" ph="/// Horizontal aircraft coordinate ... " />
+                <marker date="1559594451209" expanded="true" signature="343:407" ph="/// Flight altitude ... " />
+                <marker date="1559594451209" expanded="true" signature="443:519" ph="/// X axis velocity of aircraft ... " />
+                <marker date="1559594451209" expanded="true" signature="556:632" ph="///  ... " />
+                <marker date="1559594451209" expanded="true" signature="669:746" ph="/// Vertical aircraft coordinate ... " />
+                <marker date="1559594451209" expanded="true" signature="770:855" ph="{...}" />
+                <marker date="1559594451209" expanded="true" signature="865:944" ph="/// Horizontal aircraft coordinate ... " />
+                <marker date="1559594451209" expanded="true" signature="968:1053" ph="{...}" />
+                <marker date="1559594451209" expanded="true" signature="1063:1127" ph="/// Flight altitude ... " />
+                <marker date="1559594451209" expanded="true" signature="1150:1233" ph="{...}" />
+                <marker date="1559594451209" expanded="true" signature="1243:1319" ph="///  ... " />
+                <marker date="1559594451209" expanded="true" signature="1343:1428" ph="{...}" />
+                <marker date="1559594451209" expanded="true" signature="1438:1514" ph="///  ... " />
+                <marker date="1559594451209" expanded="true" signature="1538:1623" ph="{...}" />
+                <marker date="1559594451209" expanded="true" signature="1633:1702" ph="///  ... " />
+                <marker date="1559594451209" expanded="true" signature="1732:1821" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -87,29 +85,29 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CoordinatesCounter.Core/Calculations/CoordinatesCounter.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="784">
-              <caret line="129" column="17" lean-forward="true" selection-start-line="129" selection-start-column="17" selection-end-line="129" selection-end-column="17" />
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
               <folding>
-                <marker date="1559594134784" expanded="false" signature="6:77" ph="..." />
-                <marker date="1559594134784" expanded="true" signature="125:5897" ph="{...}" />
-                <marker date="1559594134784" expanded="true" signature="132:208" ph="/// Contains main calculating functions ... " />
-                <marker date="1559594134784" expanded="true" signature="244:5895" ph="{...}" />
-                <marker date="1559594134784" expanded="true" signature="259:361" ph="/// Contains final camera coordinates relatively to Earth ... " />
-                <marker date="1559594134784" expanded="true" signature="429:506" ph="/// Contains aircraft parameters ... " />
-                <marker date="1559594134784" expanded="true" signature="570:645" ph="/// Contains camera parameters ... " />
-                <marker date="1559594134784" expanded="true" signature="714:816" ph="/// Output of agorithm, Y coordinate of object in &quot;CK-90&quot; ... " />
-                <marker date="1559594134784" expanded="true" signature="851:955" ph="/// Output of algorithm, Y coordinate of object in  &quot;CK-90&quot; ... " />
-                <marker date="1559594134784" expanded="true" signature="990:1056" ph="///  ... " />
-                <marker date="1559594134784" expanded="true" signature="1092:1174" ph="/// X coordinate of object in &quot;CK-90&quot; ... " />
-                <marker date="1559594134784" expanded="true" signature="1197:1248" ph="{...}" />
-                <marker date="1559594134784" expanded="true" signature="1257:1339" ph="/// Y coordinate of object in &quot;CK-90&quot; ... " />
-                <marker date="1559594134784" expanded="true" signature="1362:1413" ph="{...}" />
-                <marker date="1559594134784" expanded="true" signature="1422:1488" ph="///  ... " />
-                <marker date="1559594134784" expanded="true" signature="1511:1562" ph="{...}" />
-                <marker date="1559594134784" expanded="true" signature="1572:1969" ph="/// Constructor ... " />
-                <marker date="1559594134784" expanded="true" signature="2207:2432" ph="{...}" />
-                <marker date="1559594134784" expanded="true" signature="2442:2617" ph="/// Main core function that calculating coordinates of objects ... " />
-                <marker date="1559594134784" expanded="true" signature="2680:5889" ph="{...}" />
+                <marker date="1559594451221" expanded="true" signature="6:57" ph="..." />
+                <marker date="1559594451221" expanded="true" signature="105:5910" ph="{...}" />
+                <marker date="1559594451221" expanded="true" signature="112:188" ph="/// Contains main calculating functions ... " />
+                <marker date="1559594451221" expanded="true" signature="224:5908" ph="{...}" />
+                <marker date="1559594451221" expanded="true" signature="239:341" ph="/// Contains final camera coordinates relatively to Earth ... " />
+                <marker date="1559594451221" expanded="true" signature="409:486" ph="/// Contains aircraft parameters ... " />
+                <marker date="1559594451221" expanded="true" signature="550:625" ph="/// Contains camera parameters ... " />
+                <marker date="1559594451221" expanded="true" signature="694:796" ph="/// Output of agorithm, Y coordinate of object in &quot;CK-90&quot; ... " />
+                <marker date="1559594451221" expanded="true" signature="832:936" ph="/// Output of algorithm, Y coordinate of object in  &quot;CK-90&quot; ... " />
+                <marker date="1559594451221" expanded="true" signature="972:1038" ph="///  ... " />
+                <marker date="1559594451221" expanded="true" signature="1074:1156" ph="/// X coordinate of object in &quot;CK-90&quot; ... " />
+                <marker date="1559594451221" expanded="true" signature="1179:1230" ph="{...}" />
+                <marker date="1559594451221" expanded="true" signature="1240:1322" ph="/// Y coordinate of object in &quot;CK-90&quot; ... " />
+                <marker date="1559594451221" expanded="true" signature="1345:1396" ph="{...}" />
+                <marker date="1559594451221" expanded="true" signature="1406:1472" ph="///  ... " />
+                <marker date="1559594451221" expanded="true" signature="1495:1546" ph="{...}" />
+                <marker date="1559594451221" expanded="true" signature="1556:1953" ph="/// Constructor ... " />
+                <marker date="1559594451221" expanded="true" signature="2191:2416" ph="{...}" />
+                <marker date="1559594451221" expanded="true" signature="2426:2601" ph="/// Main core function that calculating coordinates of objects ... " />
+                <marker date="1559594451221" expanded="true" signature="2664:5902" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -351,7 +349,7 @@
       <workItem from="1558380756872" duration="605000" />
       <workItem from="1559509381553" duration="923000" />
       <workItem from="1559542327012" duration="4940000" />
-      <workItem from="1559588385910" duration="4543000" />
+      <workItem from="1559588385910" duration="5365000" />
     </task>
     <task id="LOCAL-00001" summary="Created matrixes for camera regarding the aircraft and aircraft itself">
       <created>1557595672798</created>
@@ -388,11 +386,18 @@
       <option name="project" value="LOCAL" />
       <updated>1559545904685</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="1)Added Velocity parameter to AircraftInputData class;&#10;2)New coordinates calculating algorithm + size calculating">
+      <created>1559594451800</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1559594451800</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34815000" />
+    <option name="totallyTimeSpent" value="35637000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -499,7 +504,8 @@
     <MESSAGE value="Added Camera and Aircraft input classes" />
     <MESSAGE value="-Added ObjectInputData class&#10;-Added Calculation functionality(not finished as i can understand)" />
     <MESSAGE value="Added documentation to all classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added documentation to all classes" />
+    <MESSAGE value="1)Added Velocity parameter to AircraftInputData class;&#10;2)New coordinates calculating algorithm + size calculating" />
+    <option name="LAST_COMMIT_MESSAGE" value="1)Added Velocity parameter to AircraftInputData class;&#10;2)New coordinates calculating algorithm + size calculating" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -642,56 +648,56 @@
     <entry file="file://$PROJECT_DIR$/CoordinatesCounter.Core/InputStructs/AircraftIpnutData.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1232">
-          <caret line="77" column="1" lean-forward="true" selection-start-line="77" selection-start-column="1" selection-end-line="77" selection-end-column="1" />
+          <caret line="84" column="1" lean-forward="true" selection-start-line="84" selection-start-column="1" selection-end-line="84" selection-end-column="1" />
           <folding>
-            <marker date="1559593228427" expanded="true" signature="61:1822" ph="{...}" />
-            <marker date="1559593228427" expanded="true" signature="98:1820" ph="{...}" />
-            <marker date="1559593228427" expanded="true" signature="113:190" ph="/// Vertical aircraft coordinate ... " />
-            <marker date="1559593228427" expanded="true" signature="226:305" ph="/// Horizontal aircraft coordinate ... " />
-            <marker date="1559593228427" expanded="true" signature="341:405" ph="/// Flight altitude ... " />
-            <marker date="1559593228427" expanded="true" signature="441:517" ph="/// X axis velocity of aircraft ... " />
-            <marker date="1559593228427" expanded="true" signature="553:629" ph="///  ... " />
-            <marker date="1559593228427" expanded="true" signature="666:743" ph="/// Vertical aircraft coordinate ... " />
-            <marker date="1559593228427" expanded="true" signature="767:852" ph="{...}" />
-            <marker date="1559593228427" expanded="true" signature="861:940" ph="/// Horizontal aircraft coordinate ... " />
-            <marker date="1559593228427" expanded="true" signature="964:1049" ph="{...}" />
-            <marker date="1559593228427" expanded="true" signature="1058:1122" ph="/// Flight altitude ... " />
-            <marker date="1559593228427" expanded="true" signature="1145:1228" ph="{...}" />
-            <marker date="1559593228427" expanded="true" signature="1238:1314" ph="///  ... " />
-            <marker date="1559593228427" expanded="true" signature="1338:1423" ph="{...}" />
-            <marker date="1559593228427" expanded="true" signature="1432:1508" ph="///  ... " />
-            <marker date="1559593228427" expanded="true" signature="1532:1617" ph="{...}" />
-            <marker date="1559593228427" expanded="true" signature="1626:1695" ph="///  ... " />
-            <marker date="1559593228427" expanded="true" signature="1725:1814" ph="{...}" />
+            <marker date="1559594451209" expanded="true" signature="61:1829" ph="{...}" />
+            <marker date="1559594451209" expanded="true" signature="98:1827" ph="{...}" />
+            <marker date="1559594451209" expanded="true" signature="113:190" ph="/// Vertical aircraft coordinate ... " />
+            <marker date="1559594451209" expanded="true" signature="227:306" ph="/// Horizontal aircraft coordinate ... " />
+            <marker date="1559594451209" expanded="true" signature="343:407" ph="/// Flight altitude ... " />
+            <marker date="1559594451209" expanded="true" signature="443:519" ph="/// X axis velocity of aircraft ... " />
+            <marker date="1559594451209" expanded="true" signature="556:632" ph="///  ... " />
+            <marker date="1559594451209" expanded="true" signature="669:746" ph="/// Vertical aircraft coordinate ... " />
+            <marker date="1559594451209" expanded="true" signature="770:855" ph="{...}" />
+            <marker date="1559594451209" expanded="true" signature="865:944" ph="/// Horizontal aircraft coordinate ... " />
+            <marker date="1559594451209" expanded="true" signature="968:1053" ph="{...}" />
+            <marker date="1559594451209" expanded="true" signature="1063:1127" ph="/// Flight altitude ... " />
+            <marker date="1559594451209" expanded="true" signature="1150:1233" ph="{...}" />
+            <marker date="1559594451209" expanded="true" signature="1243:1319" ph="///  ... " />
+            <marker date="1559594451209" expanded="true" signature="1343:1428" ph="{...}" />
+            <marker date="1559594451209" expanded="true" signature="1438:1514" ph="///  ... " />
+            <marker date="1559594451209" expanded="true" signature="1538:1623" ph="{...}" />
+            <marker date="1559594451209" expanded="true" signature="1633:1702" ph="///  ... " />
+            <marker date="1559594451209" expanded="true" signature="1732:1821" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CoordinatesCounter.Core/Calculations/CoordinatesCounter.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="784">
-          <caret line="129" column="17" lean-forward="true" selection-start-line="129" selection-start-column="17" selection-end-line="129" selection-end-column="17" />
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
           <folding>
-            <marker date="1559594134784" expanded="false" signature="6:77" ph="..." />
-            <marker date="1559594134784" expanded="true" signature="125:5897" ph="{...}" />
-            <marker date="1559594134784" expanded="true" signature="132:208" ph="/// Contains main calculating functions ... " />
-            <marker date="1559594134784" expanded="true" signature="244:5895" ph="{...}" />
-            <marker date="1559594134784" expanded="true" signature="259:361" ph="/// Contains final camera coordinates relatively to Earth ... " />
-            <marker date="1559594134784" expanded="true" signature="429:506" ph="/// Contains aircraft parameters ... " />
-            <marker date="1559594134784" expanded="true" signature="570:645" ph="/// Contains camera parameters ... " />
-            <marker date="1559594134784" expanded="true" signature="714:816" ph="/// Output of agorithm, Y coordinate of object in &quot;CK-90&quot; ... " />
-            <marker date="1559594134784" expanded="true" signature="851:955" ph="/// Output of algorithm, Y coordinate of object in  &quot;CK-90&quot; ... " />
-            <marker date="1559594134784" expanded="true" signature="990:1056" ph="///  ... " />
-            <marker date="1559594134784" expanded="true" signature="1092:1174" ph="/// X coordinate of object in &quot;CK-90&quot; ... " />
-            <marker date="1559594134784" expanded="true" signature="1197:1248" ph="{...}" />
-            <marker date="1559594134784" expanded="true" signature="1257:1339" ph="/// Y coordinate of object in &quot;CK-90&quot; ... " />
-            <marker date="1559594134784" expanded="true" signature="1362:1413" ph="{...}" />
-            <marker date="1559594134784" expanded="true" signature="1422:1488" ph="///  ... " />
-            <marker date="1559594134784" expanded="true" signature="1511:1562" ph="{...}" />
-            <marker date="1559594134784" expanded="true" signature="1572:1969" ph="/// Constructor ... " />
-            <marker date="1559594134784" expanded="true" signature="2207:2432" ph="{...}" />
-            <marker date="1559594134784" expanded="true" signature="2442:2617" ph="/// Main core function that calculating coordinates of objects ... " />
-            <marker date="1559594134784" expanded="true" signature="2680:5889" ph="{...}" />
+            <marker date="1559594451221" expanded="true" signature="6:57" ph="..." />
+            <marker date="1559594451221" expanded="true" signature="105:5910" ph="{...}" />
+            <marker date="1559594451221" expanded="true" signature="112:188" ph="/// Contains main calculating functions ... " />
+            <marker date="1559594451221" expanded="true" signature="224:5908" ph="{...}" />
+            <marker date="1559594451221" expanded="true" signature="239:341" ph="/// Contains final camera coordinates relatively to Earth ... " />
+            <marker date="1559594451221" expanded="true" signature="409:486" ph="/// Contains aircraft parameters ... " />
+            <marker date="1559594451221" expanded="true" signature="550:625" ph="/// Contains camera parameters ... " />
+            <marker date="1559594451221" expanded="true" signature="694:796" ph="/// Output of agorithm, Y coordinate of object in &quot;CK-90&quot; ... " />
+            <marker date="1559594451221" expanded="true" signature="832:936" ph="/// Output of algorithm, Y coordinate of object in  &quot;CK-90&quot; ... " />
+            <marker date="1559594451221" expanded="true" signature="972:1038" ph="///  ... " />
+            <marker date="1559594451221" expanded="true" signature="1074:1156" ph="/// X coordinate of object in &quot;CK-90&quot; ... " />
+            <marker date="1559594451221" expanded="true" signature="1179:1230" ph="{...}" />
+            <marker date="1559594451221" expanded="true" signature="1240:1322" ph="/// Y coordinate of object in &quot;CK-90&quot; ... " />
+            <marker date="1559594451221" expanded="true" signature="1345:1396" ph="{...}" />
+            <marker date="1559594451221" expanded="true" signature="1406:1472" ph="///  ... " />
+            <marker date="1559594451221" expanded="true" signature="1495:1546" ph="{...}" />
+            <marker date="1559594451221" expanded="true" signature="1556:1953" ph="/// Constructor ... " />
+            <marker date="1559594451221" expanded="true" signature="2191:2416" ph="{...}" />
+            <marker date="1559594451221" expanded="true" signature="2426:2601" ph="/// Main core function that calculating coordinates of objects ... " />
+            <marker date="1559594451221" expanded="true" signature="2664:5902" ph="{...}" />
           </folding>
         </state>
       </provider>
