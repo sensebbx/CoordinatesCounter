@@ -47,6 +47,8 @@ namespace Interface
                 int flightHeighChangeInt = Convert.ToInt32(flightHeighChange);
 
                 //TODO: передать данные в ядро
+
+                Close();
             }
         }
     }

@@ -1,4 +1,5 @@
-﻿using System.Text.RegularExpressions;
+﻿using System.Collections.Generic;
+using System.Text.RegularExpressions;
 using System.Windows;
 
 namespace Interface
@@ -12,6 +13,7 @@ namespace Interface
         static Regex flightHeighChangeCheck = new Regex(@"^[-+]{1}[0-9]+$");
         static Regex speedProectionCheck = new Regex(@"^[0-9]{1,3}:[0-9]{1,3}:[0-9]{1,3}$");
         static Regex angularPositionLACheck = new Regex(@"^[0-9]{1,3}:[0-9]{1,3}:[0-9]{1,3}$");
+        static Regex pairOfCoordinatesCheck = new Regex(@"^[\d]+;[\d]+$");
 
         private static string cadrFormarError = "Недопустимый формат кадра";
         private static string cornerGripError = "Недопустимый угловой захват местности";
@@ -20,12 +22,14 @@ namespace Interface
         private static string flightHeighChangeError = "Недопустимое изменение высоты полета";
         private static string speedProectionError = "Недопустимые проекции скорости";
         private static string angularPositionLAError = "Недопустимое угловое положение ЛА";
+        private static string pairOfCoordinatesError = "Недопустимые значения координат точки центра объекта";
 
         public static bool CheckInputCameraData(
             string cadrFormat,
             string cornerGrip,
             string angularPositionCam,
-            string matrixPeriod)
+            string matrixPeriod,
+            List<string> pairOfCoordinates)
         {
             if (!cadrFormatCheck.IsMatch(cadrFormat))
             {
@@ -49,6 +53,15 @@ namespace Interface
             {
                 MessageBox.Show(matrixPeriodError, "Ошибка ввода", MessageBoxButton.OK, MessageBoxImage.Error);
                 return false;
+            }
+
+            foreach (string pairOfCoordinate in pairOfCoordinates)
+            {
+                if (!pairOfCoordinatesCheck.IsMatch(pairOfCoordinate))
+                {
+                    MessageBox.Show(pairOfCoordinatesError, "Ошибка ввода", MessageBoxButton.OK, MessageBoxImage.Error);
+                    return false;
+                }
             }
 
             return true;
