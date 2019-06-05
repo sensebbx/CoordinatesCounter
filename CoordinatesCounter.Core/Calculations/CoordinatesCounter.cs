@@ -92,19 +92,19 @@ namespace CoordinatesCounter.Core.Calculations
                 y2;
             x1 = (float) (_aircraftIpnutData.XS -
                           (_aircraftIpnutData.H - objectInputData.Hs) *
-                          ((objectInputData.Xob - _cameraInputData.X0) * _angleCameraRegEarth.Matrix.V00 +
-                           (objectInputData.Yob - _cameraInputData.Y0) * _angleCameraRegEarth.Matrix.V01 -
+                          ((objectInputData.Xob1 - _cameraInputData.X0) * _angleCameraRegEarth.Matrix.V00 +
+                           (objectInputData.Yob1 - _cameraInputData.Y0) * _angleCameraRegEarth.Matrix.V01 -
                            _cameraInputData.F * _angleCameraRegEarth.Matrix.V02) /
-                          ((objectInputData.Xob - _cameraInputData.X0) * _angleCameraRegEarth.Matrix.V20 +
-                           (objectInputData.Yob - _cameraInputData.Y0) * _angleCameraRegEarth.Matrix.V21 -
+                          ((objectInputData.Xob1 - _cameraInputData.X0) * _angleCameraRegEarth.Matrix.V20 +
+                           (objectInputData.Yob1 - _cameraInputData.Y0) * _angleCameraRegEarth.Matrix.V21 -
                            _cameraInputData.F * _angleCameraRegEarth.Matrix.V22));
             y1 = (float) (_aircraftIpnutData.XS -
                           (_aircraftIpnutData.H - objectInputData.Hs) *
-                          ((objectInputData.Xob - _cameraInputData.X0) * _angleCameraRegEarth.Matrix.V10 +
-                           (objectInputData.Yob - _cameraInputData.Y0) * _angleCameraRegEarth.Matrix.V11 -
+                          ((objectInputData.Xob1 - _cameraInputData.X0) * _angleCameraRegEarth.Matrix.V10 +
+                           (objectInputData.Yob1 - _cameraInputData.Y0) * _angleCameraRegEarth.Matrix.V11 -
                            _cameraInputData.F * _angleCameraRegEarth.Matrix.V12) /
-                          ((objectInputData.Xob - _cameraInputData.X0) * _angleCameraRegEarth.Matrix.V20 +
-                           (objectInputData.Yob - _cameraInputData.Y0) * _angleCameraRegEarth.Matrix.V21 -
+                          ((objectInputData.Xob1 - _cameraInputData.X0) * _angleCameraRegEarth.Matrix.V20 +
+                           (objectInputData.Yob1 - _cameraInputData.Y0) * _angleCameraRegEarth.Matrix.V21 -
                            _cameraInputData.F * _angleCameraRegEarth.Matrix.V22));
 
             _aircraftIpnutData.XS += _aircraftIpnutData.VX;
@@ -112,20 +112,20 @@ namespace CoordinatesCounter.Core.Calculations
 
             x2 = (float) (_aircraftIpnutData.XS -
                           (_aircraftIpnutData.H - objectInputData.Hs) *
-                          ((objectInputData.Xob - _cameraInputData.X0) * _angleCameraRegEarth.Matrix.V00 +
-                           (objectInputData.Yob - _cameraInputData.Y0) * _angleCameraRegEarth.Matrix.V01 -
+                          ((objectInputData.Xob2 - _cameraInputData.X0) * _angleCameraRegEarth.Matrix.V00 +
+                           (objectInputData.Yob2 - _cameraInputData.Y0) * _angleCameraRegEarth.Matrix.V01 -
                            _cameraInputData.F * _angleCameraRegEarth.Matrix.V02) /
-                          ((objectInputData.Xob - _cameraInputData.X0) * _angleCameraRegEarth.Matrix.V20 +
-                           (objectInputData.Yob - _cameraInputData.Y0) * _angleCameraRegEarth.Matrix.V21 -
+                          ((objectInputData.Xob2 - _cameraInputData.X0) * _angleCameraRegEarth.Matrix.V20 +
+                           (objectInputData.Yob2 - _cameraInputData.Y0) * _angleCameraRegEarth.Matrix.V21 -
                            _cameraInputData.F * _angleCameraRegEarth.Matrix.V22));
 
             y2 = (float) (_aircraftIpnutData.XS -
                           (_aircraftIpnutData.H - objectInputData.Hs) *
-                          ((objectInputData.Xob - _cameraInputData.X0) * _angleCameraRegEarth.Matrix.V10 +
-                           (objectInputData.Yob - _cameraInputData.Y0) * _angleCameraRegEarth.Matrix.V11 -
+                          ((objectInputData.Xob2 - _cameraInputData.X0) * _angleCameraRegEarth.Matrix.V10 +
+                           (objectInputData.Yob2 - _cameraInputData.Y0) * _angleCameraRegEarth.Matrix.V11 -
                            _cameraInputData.F * _angleCameraRegEarth.Matrix.V12) /
-                          ((objectInputData.Xob - _cameraInputData.X0) * _angleCameraRegEarth.Matrix.V20 +
-                           (objectInputData.Yob - _cameraInputData.Y0) * _angleCameraRegEarth.Matrix.V21 -
+                          ((objectInputData.Xob2 - _cameraInputData.X0) * _angleCameraRegEarth.Matrix.V20 +
+                           (objectInputData.Yob2 - _cameraInputData.Y0) * _angleCameraRegEarth.Matrix.V21 -
                            _cameraInputData.F * _angleCameraRegEarth.Matrix.V22));
 
             _x = (x2 + x1) / 2;

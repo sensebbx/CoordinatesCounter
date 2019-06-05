@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Windows;
+using CoordinatesCounter.Core;
+using CoordinatesCounter.Core.InputStructs;
 
 namespace Interface
 {
@@ -57,7 +59,19 @@ namespace Interface
                 int flightHeighInt = Convert.ToInt32(flightHeigh);
                 int flightHeighChangeInt = Convert.ToInt32(flightHeighChange);
 
-                //TODO: передать данные в ядро
+
+                //Input of AircraftItselt
+                CoreInterface.AircraftIpnutData = new AircraftIpnutData();
+                CoreInterface.AircraftIpnutData.H = flightHeighInt;
+                CoreInterface.AircraftIpnutData.VX = speedProectionArrInt[0];
+                CoreInterface.AircraftIpnutData.VY = speedProectionArrInt[1];
+
+                //TODO: Координаты самолёта нужны
+
+                //Input of Aircraft Matrix
+                CoreInterface.AnglePlaneMatrix = new AnglePlaneMatrix(angularPositionLAArrInt[0], angularPositionLA[1],
+                    angularPositionLA[2]);
+
 
                 Close();
             }
