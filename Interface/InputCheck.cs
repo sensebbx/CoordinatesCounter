@@ -14,6 +14,7 @@ namespace Interface
         static Regex speedProectionCheck = new Regex(@"^[0-9]{1,3}:[0-9]{1,3}:[0-9]{1,3}$");
         static Regex angularPositionLACheck = new Regex(@"^[0-9]{1,3}:[0-9]{1,3}:[0-9]{1,3}$");
         static Regex pairOfCoordinatesCheck = new Regex(@"^[\d]+;[\d]+$");
+        static Regex LACoordinatesCheck = new Regex(@"^[0-9]+:[0-9]+:[0-9]+$");
 
         private static string cadrFormarError = "Недопустимый формат кадра";
         private static string cornerGripError = "Недопустимый угловой захват местности";
@@ -23,6 +24,7 @@ namespace Interface
         private static string speedProectionError = "Недопустимые проекции скорости";
         private static string angularPositionLAError = "Недопустимое угловое положение ЛА";
         private static string pairOfCoordinatesError = "Недопустимые значения координат точки центра объекта";
+        private static string LACoordinatesError = "Недопустимые коориднаты ЛА";
 
         public static bool CheckInputCameraData(
             string cadrFormat,
@@ -70,7 +72,8 @@ namespace Interface
         public static bool CheckInputLAData(
             string flightHeighChange,
             string speedProection,
-            string angularPositionLA)
+            string angularPositionLA,
+            string LACoordinates)
         {
             if (!flightHeighChangeCheck.IsMatch(flightHeighChange))
             {
@@ -87,6 +90,12 @@ namespace Interface
             if (!angularPositionLACheck.IsMatch(angularPositionLA))
             {
                 MessageBox.Show(angularPositionLAError, "Ошибка ввода", MessageBoxButton.OK, MessageBoxImage.Error);
+                return false;
+            }
+
+            if (!LACoordinatesCheck.IsMatch(LACoordinates))
+            {
+                MessageBox.Show(LACoordinatesError, "Ошибка ввода", MessageBoxButton.OK, MessageBoxImage.Error);
                 return false;
             }
 
