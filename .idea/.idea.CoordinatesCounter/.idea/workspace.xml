@@ -4,7 +4,6 @@
     <list default="true" id="dcc73119-3bec-4b4d-bbed-971f3e39bc0a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CoordinatesCounter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CoordinatesCounter/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Interface/LAParameters.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Interface/LAParameters.xaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interface/MainWindow.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Interface/MainWindow.xaml.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +32,7 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/CoordinatesCounter.Core/InputStructs/AircraftIpnutData.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="288">
+                <state relative-caret-position="-16">
                   <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
                   <folding>
                     <marker date="1559728954935" expanded="true" signature="61:1829" ph="{...}" />
@@ -63,24 +62,24 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Interface/InputCheck.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="48">
-                  <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+                <state relative-caret-position="239">
+                  <caret line="36" column="13" lean-forward="true" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
                   <folding>
-                    <marker date="1559749511674" expanded="false" signature="6:93" ph="..." />
-                    <marker date="1559749511674" expanded="true" signature="114:4469" ph="{...}" />
-                    <marker date="1559749511674" expanded="true" signature="151:4467" ph="{...}" />
-                    <marker date="1559749511674" expanded="true" signature="1945:3270" ph="{...}" />
-                    <marker date="1559749511674" expanded="true" signature="2009:2177" ph="{...}" />
-                    <marker date="1559749511674" expanded="true" signature="2232:2400" ph="{...}" />
-                    <marker date="1559749511674" expanded="true" signature="2471:2647" ph="{...}" />
-                    <marker date="1559749511674" expanded="true" signature="2706:2876" ph="{...}" />
-                    <marker date="1559749511674" expanded="true" signature="2944:3234" ph="{...}" />
-                    <marker date="1559749511674" expanded="true" signature="3029:3220" ph="{...}" />
-                    <marker date="1559749511674" expanded="true" signature="3461:4461" ph="{...}" />
-                    <marker date="1559749511674" expanded="true" signature="3539:3714" ph="{...}" />
-                    <marker date="1559749511674" expanded="true" signature="3777:3949" ph="{...}" />
-                    <marker date="1559749511674" expanded="true" signature="4018:4193" ph="{...}" />
-                    <marker date="1559749511674" expanded="true" signature="4254:4425" ph="{...}" />
+                    <marker date="1559751800706" expanded="false" signature="6:93" ph="..." />
+                    <marker date="1559751800706" expanded="true" signature="114:4462" ph="{...}" />
+                    <marker date="1559751800706" expanded="true" signature="151:4460" ph="{...}" />
+                    <marker date="1559751800706" expanded="true" signature="1938:3263" ph="{...}" />
+                    <marker date="1559751800706" expanded="true" signature="2002:2170" ph="{...}" />
+                    <marker date="1559751800706" expanded="true" signature="2225:2393" ph="{...}" />
+                    <marker date="1559751800706" expanded="true" signature="2464:2640" ph="{...}" />
+                    <marker date="1559751800706" expanded="true" signature="2699:2869" ph="{...}" />
+                    <marker date="1559751800706" expanded="true" signature="2937:3227" ph="{...}" />
+                    <marker date="1559751800706" expanded="true" signature="3022:3213" ph="{...}" />
+                    <marker date="1559751800706" expanded="true" signature="3454:4454" ph="{...}" />
+                    <marker date="1559751800706" expanded="true" signature="3532:3707" ph="{...}" />
+                    <marker date="1559751800706" expanded="true" signature="3770:3942" ph="{...}" />
+                    <marker date="1559751800706" expanded="true" signature="4011:4186" ph="{...}" />
+                    <marker date="1559751800706" expanded="true" signature="4247:4418" ph="{...}" />
                   </folding>
                 </state>
               </provider>
@@ -89,8 +88,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Interface/CoreInterface.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="192">
-                  <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+                <state relative-caret-position="96">
+                  <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
                   <folding>
                     <marker date="1559730856136" expanded="false" signature="6:74" ph="..." />
                     <marker date="1559730856136" expanded="true" signature="95:598" ph="{...}" />
@@ -104,30 +103,18 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Interface/MainWindow.xaml.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="271">
-                  <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
+                <state relative-caret-position="413">
+                  <caret line="49" column="34" lean-forward="true" selection-start-line="49" selection-start-column="34" selection-end-line="49" selection-end-column="34" />
                   <folding>
-                    <marker date="1559749480642" expanded="false" signature="6:180" ph="..." />
-                    <marker date="1559749480642" expanded="true" signature="201:1718" ph="{...}" />
-                    <marker date="1559749480642" expanded="true" signature="208:286" ph="/// Interaction logic for MainWindow.xaml ... " />
-                    <marker date="1559749480642" expanded="true" signature="331:1716" ph="{...}" />
-                    <marker date="1559749480642" expanded="true" signature="365:420" ph="{...}" />
-                    <marker date="1559749480642" expanded="true" signature="492:587" ph="{...}" />
-                    <marker date="1559749480642" expanded="true" signature="660:763" ph="{...}" />
-                    <marker date="1559749480642" expanded="true" signature="832:1474" ph="{...}" />
-                    <marker date="1559749480642" expanded="true" signature="1550:1710" ph="{...}" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Interface/LAParameters.xaml">
-              <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <folding>
-                    <marker date="1559749511676" expanded="true" signature="0:1898" ph="&lt;&lt;Grid&gt;&#10;        &lt;TextBlock TextWrapping=&quot;Wrap&quot; Text=&quot;Высота полета [м]&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;10,11,12.8,0&quot; Height=&quot;19&quot;/&gt;&#10;        &lt;TextBox x:Name=&quot;flightHeigh&quot; Height=&quot;25&quot; TextWrapping=&quot;Wrap&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;10,32,12.8,0&quot;/&gt;&#10;        &lt;TextBlock TextWrapping=&quot;Wrap&quot; Text=&quot;Изменение высоты полета (+ набор высоты / - снижение) [м/с]&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;10,65,12.8,0&quot; Height=&quot;42&quot;/&gt;&#10;        &lt;TextBox x:Name=&quot;flightHeighChange&quot; Height=&quot;25&quot; TextWrapping=&quot;Wrap&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;10,93,12.667,0&quot;/&gt;&#10;        &lt;TextBlock TextWrapping=&quot;Wrap&quot; Text=&quot;Проекции скорости полета на оси X, Y, Z в формате (Vx:Vy:Vz) [м/с]&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;10,129,12.667,0&quot; Height=&quot;32&quot;/&gt;&#10;        &lt;TextBox x:Name=&quot;speedProection&quot; Height=&quot;25&quot; TextWrapping=&quot;Wrap&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;10,162,12.667,0&quot;/&gt;&#10;        &lt;TextBlock TextWrapping=&quot;Wrap&quot; Text=&quot;Начальное угловое положение ЛА в формате (w:y:v) [градусы]&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;10,202,12.667,0&quot; Height=&quot;39&quot;/&gt;&#10;        &lt;TextBox x:Name=&quot;angularPositionLA&quot; TextWrapping=&quot;Wrap&quot; Margin=&quot;10,232,12.667,0&quot; Height=&quot;25&quot; VerticalAlignment=&quot;Top&quot;/&gt;&#10;        &lt;Button x:Name=&quot;OK&quot; Content=&quot;Ок&quot; Margin=&quot;0,0,13.8,13.8&quot; Height=&quot;20&quot; VerticalAlignment=&quot;Bottom&quot; HorizontalAlignment=&quot;Right&quot; Width=&quot;75&quot; Click=&quot;OK_Click&quot;/&gt;&#10;    &lt;/Grid&gt;.../&gt;" />
-                    <marker date="1559749511676" expanded="true" signature="320:1888" ph="&lt;&lt;TextBlock TextWrapping=&quot;Wrap&quot; Text=&quot;Высота полета [м]&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;10,11,12.8,0&quot; Height=&quot;19&quot;/&gt; &lt;TextBox x:Name=&quot;flightHeigh&quot; Height=&quot;25&quot; TextWrapping=&quot;Wrap&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;10,32,12.8,0&quot;/&gt; &lt;TextBlock TextWrapping=&quot;Wrap&quot; Text=&quot;Изменение высоты полета (+ набор высоты / - снижение) [м/с]&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;10,65,12.8,0&quot; Height=&quot;42&quot;/&gt; &lt;TextBox x:Name=&quot;flightHeighChange&quot; Height=&quot;25&quot; TextWrapping=&quot;Wrap&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;10,93,12.667,0&quot;/&gt; &lt;TextBlock TextWrapping=&quot;Wrap&quot; Text=&quot;Проекции скорости полета на оси X, Y, Z в формате (Vx:Vy:Vz) [м/с]&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;10,129,12.667,0&quot; Height=&quot;32&quot;/&gt; &lt;TextBox x:Name=&quot;speedProection&quot; Height=&quot;25&quot; TextWrapping=&quot;Wrap&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;10,162,12.667,0&quot;/&gt; &lt;TextBlock TextWrapping=&quot;Wrap&quot; Text=&quot;Начальное угловое положение ЛА в формате (w:y:v) [градусы]&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;10,202,12.667,0&quot; Height=&quot;39&quot;/&gt; &lt;TextBox x:Name=&quot;angularPositionLA&quot; TextWrapping=&quot;Wrap&quot; Margin=&quot;10,232,12.667,0&quot; Height=&quot;25&quot; VerticalAlignment=&quot;Top&quot;/&gt; &lt;Button x:Name=&quot;OK&quot; Content=&quot;Ок&quot; Margin=&quot;0,0,13.8,13.8&quot; Height=&quot;20&quot; VerticalAlignment=&quot;Bottom&quot; HorizontalAlignment=&quot;Right&quot; Width=&quot;75&quot; Click=&quot;OK_Click&quot;/&gt; &lt;TextBlock TextWrapping=&quot;Wrap&quot; Text=&quot;Координаты самолета в формате (X;Y)&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;10,271,12,0&quot; Height=&quot;39&quot;/&gt; &lt;TextBox x:Name=&quot;LACoordinates&quot; TextWrapping=&quot;Wrap&quot; Margin=&quot;10,299,12,0&quot; Height=&quot;25&quot; VerticalAlignment=&quot;Top&quot;/&gt;.../&gt;" />
+                    <marker date="1559749946105" expanded="false" signature="6:180" ph="..." />
+                    <marker date="1559749946105" expanded="true" signature="201:1710" ph="{...}" />
+                    <marker date="1559749946105" expanded="true" signature="208:286" ph="/// Interaction logic for MainWindow.xaml ... " />
+                    <marker date="1559749946105" expanded="true" signature="331:1708" ph="{...}" />
+                    <marker date="1559749946105" expanded="true" signature="365:420" ph="{...}" />
+                    <marker date="1559749946105" expanded="true" signature="492:587" ph="{...}" />
+                    <marker date="1559749946105" expanded="true" signature="660:763" ph="{...}" />
+                    <marker date="1559749946105" expanded="true" signature="832:1474" ph="{...}" />
+                    <marker date="1559749946105" expanded="true" signature="1542:1702" ph="{...}" />
                   </folding>
                 </state>
               </provider>
@@ -136,19 +123,19 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Interface/LAParameters.xaml.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="213">
+                <state relative-caret-position="28">
                   <caret line="29" column="66" selection-start-line="29" selection-start-column="66" selection-end-line="29" selection-end-column="66" />
                   <folding>
-                    <marker date="1559749827350" expanded="false" signature="6:110" ph="..." />
-                    <marker date="1559749827350" expanded="true" signature="131:2875" ph="{...}" />
-                    <marker date="1559749827350" expanded="true" signature="138:213" ph="/// Interaction logic for Window1.xaml ... " />
-                    <marker date="1559749827350" expanded="true" signature="260:2873" ph="{...}" />
-                    <marker date="1559749827350" expanded="true" signature="296:351" ph="{...}" />
-                    <marker date="1559749827350" expanded="true" signature="416:2867" ph="{...}" />
-                    <marker date="1559749827350" expanded="true" signature="855:2857" ph="{...}" />
-                    <marker date="1559749827350" expanded="true" signature="1254:1381" ph="{...}" />
-                    <marker date="1559749827350" expanded="true" signature="1551:1681" ph="{...}" />
-                    <marker date="1559749827350" expanded="true" signature="1839:1965" ph="{...}" />
+                    <marker date="1559752611518" expanded="false" signature="6:110" ph="..." />
+                    <marker date="1559752611518" expanded="true" signature="131:2875" ph="{...}" />
+                    <marker date="1559752611518" expanded="true" signature="138:213" ph="/// Interaction logic for Window1.xaml ... " />
+                    <marker date="1559752611518" expanded="true" signature="260:2873" ph="{...}" />
+                    <marker date="1559752611518" expanded="true" signature="296:351" ph="{...}" />
+                    <marker date="1559752611518" expanded="true" signature="416:2867" ph="{...}" />
+                    <marker date="1559752611518" expanded="true" signature="855:2857" ph="{...}" />
+                    <marker date="1559752611518" expanded="true" signature="1254:1381" ph="{...}" />
+                    <marker date="1559752611518" expanded="true" signature="1551:1681" ph="{...}" />
+                    <marker date="1559752611518" expanded="true" signature="1839:1965" ph="{...}" />
                   </folding>
                 </state>
               </provider>
@@ -312,7 +299,7 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/CoordinatesCounter.Core/Calculations/CoordinatesCounter.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="219">
+                <state relative-caret-position="1360">
                   <caret line="86" column="14" selection-start-line="86" selection-start-column="14" selection-end-line="86" selection-end-column="14" />
                   <folding>
                     <marker date="1559730437710" expanded="false" signature="6:57" ph="..." />
@@ -367,6 +354,7 @@
     <setting file="file://$PROJECT_DIR$/Interface/CoreInterface.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CoordinatesCounter.Core/packages.config" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CoordinatesCounter.Core/Matrixes/AnglePlaneMatrix.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/363257E3-9D24-4888-B16F-C2A2FFEC12DF/cc/8a25d8d7/Number.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CoordinatesCounter.Core/InputStructs/ObjectInputData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/packages/Accord.3.8.2-alpha/build/Accord.dll.config" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CoordinatesCounter.Core/InputStructs/AircraftIpnutData.cs" root0="FORCE_HIGHLIGHTING" />
@@ -429,6 +417,12 @@
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="CoordinatesCounter" type="24d0babc:SolutionExplorerModelNode" />
               <item name="Interface" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CoordinatesCounter" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Interface" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="LAParameters.xaml" type="24d0babc:SolutionExplorerModelNode" />
             </path>
           </expand>
           <select />
@@ -497,7 +491,7 @@
       <workItem from="1559542327012" duration="4940000" />
       <workItem from="1559588385910" duration="5365000" />
       <workItem from="1559727146702" duration="3975000" />
-      <workItem from="1559749285923" duration="542000" />
+      <workItem from="1559749285923" duration="3492000" />
     </task>
     <task id="LOCAL-00001" summary="Created matrixes for camera regarding the aircraft and aircraft itself">
       <created>1557595672798</created>
@@ -555,11 +549,18 @@
       <option name="project" value="LOCAL" />
       <updated>1559730856847</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Connected GUI and Core">
+      <created>1559749946713</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1559749946714</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42269000" />
+    <option name="totallyTimeSpent" value="45219000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -572,30 +573,29 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.52567977" visible="true" weight="0.26279318" />
-      <window_info id="Structure" order="1" sideWeight="0.47432023" side_tool="true" visible="true" weight="0.26279318" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.52567977" visible="true" weight="0.15991472" />
+      <window_info id="Structure" order="1" sideWeight="0.47432023" side_tool="true" visible="true" weight="0.15991472" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.48880598" visible="true" weight="0.32791877" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.48560768" visible="true" weight="0.32791877" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.5676972" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49413645" weight="0.3604061" />
       <window_info anchor="bottom" id="NuGet" order="7" sideWeight="0.4989339" weight="0.32791877" />
       <window_info anchor="bottom" id="Performance Profiler" order="8" weight="0.32936078" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.4968017" weight="0.33604062" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49626866" weight="0.33604062" />
       <window_info anchor="bottom" id="Change Signature" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unit Tests" order="13" />
       <window_info anchor="bottom" id="Terminal" order="14" />
-      <window_info anchor="bottom" id="Event Log" order="15" sideWeight="0.51119405" side_tool="true" visible="true" weight="0.32791877" />
-      <window_info anchor="bottom" id="Build" order="16" sideWeight="0.48880598" weight="0.27309644" />
+      <window_info anchor="bottom" id="Event Log" order="15" sideWeight="0.5143923" side_tool="true" visible="true" weight="0.32791877" />
+      <window_info anchor="bottom" id="Build" order="16" sideWeight="0.48454157" weight="0.27309644" />
       <window_info anchor="bottom" id="XAML Preview" order="17" sideWeight="0.49840087" weight="0.435533" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -670,7 +670,8 @@
     <MESSAGE value="1)Added Velocity parameter to AircraftInputData class;&#10;2)New coordinates calculating algorithm + size calculating" />
     <MESSAGE value="Fixed IsReadOnly attribute in TextBoxes" />
     <MESSAGE value="Almost connected core and gui" />
-    <option name="LAST_COMMIT_MESSAGE" value="Almost connected core and gui" />
+    <MESSAGE value="Connected GUI and Core" />
+    <option name="LAST_COMMIT_MESSAGE" value="Connected GUI and Core" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -680,6 +681,19 @@
           <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
           <option name="timeStamp" value="1" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Interface/LAParameters.xaml.cs</url>
+          <line>63</line>
+          <properties documentPath="$PROJECT_DIR$/Interface/LAParameters.xaml.cs" initialLine="63">
+            <startOffsets>
+              <option value="2173" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2231" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -765,53 +779,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Interface/InputCheck.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-          <folding>
-            <marker date="1559749511674" expanded="false" signature="6:93" ph="..." />
-            <marker date="1559749511674" expanded="true" signature="114:4469" ph="{...}" />
-            <marker date="1559749511674" expanded="true" signature="151:4467" ph="{...}" />
-            <marker date="1559749511674" expanded="true" signature="1945:3270" ph="{...}" />
-            <marker date="1559749511674" expanded="true" signature="2009:2177" ph="{...}" />
-            <marker date="1559749511674" expanded="true" signature="2232:2400" ph="{...}" />
-            <marker date="1559749511674" expanded="true" signature="2471:2647" ph="{...}" />
-            <marker date="1559749511674" expanded="true" signature="2706:2876" ph="{...}" />
-            <marker date="1559749511674" expanded="true" signature="2944:3234" ph="{...}" />
-            <marker date="1559749511674" expanded="true" signature="3029:3220" ph="{...}" />
-            <marker date="1559749511674" expanded="true" signature="3461:4461" ph="{...}" />
-            <marker date="1559749511674" expanded="true" signature="3539:3714" ph="{...}" />
-            <marker date="1559749511674" expanded="true" signature="3777:3949" ph="{...}" />
-            <marker date="1559749511674" expanded="true" signature="4018:4193" ph="{...}" />
-            <marker date="1559749511674" expanded="true" signature="4254:4425" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Interface/CoreInterface.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-          <folding>
-            <marker date="1559730856136" expanded="false" signature="6:74" ph="..." />
-            <marker date="1559730856136" expanded="true" signature="95:598" ph="{...}" />
-            <marker date="1559730856136" expanded="true" signature="135:596" ph="{...}" />
-            <marker date="1559730856136" expanded="true" signature="570:590" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Interface/LAParameters.xaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1559749511676" expanded="true" signature="0:1898" ph="&lt;&lt;Grid&gt;&#10;        &lt;TextBlock TextWrapping=&quot;Wrap&quot; Text=&quot;Высота полета [м]&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;10,11,12.8,0&quot; Height=&quot;19&quot;/&gt;&#10;        &lt;TextBox x:Name=&quot;flightHeigh&quot; Height=&quot;25&quot; TextWrapping=&quot;Wrap&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;10,32,12.8,0&quot;/&gt;&#10;        &lt;TextBlock TextWrapping=&quot;Wrap&quot; Text=&quot;Изменение высоты полета (+ набор высоты / - снижение) [м/с]&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;10,65,12.8,0&quot; Height=&quot;42&quot;/&gt;&#10;        &lt;TextBox x:Name=&quot;flightHeighChange&quot; Height=&quot;25&quot; TextWrapping=&quot;Wrap&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;10,93,12.667,0&quot;/&gt;&#10;        &lt;TextBlock TextWrapping=&quot;Wrap&quot; Text=&quot;Проекции скорости полета на оси X, Y, Z в формате (Vx:Vy:Vz) [м/с]&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;10,129,12.667,0&quot; Height=&quot;32&quot;/&gt;&#10;        &lt;TextBox x:Name=&quot;speedProection&quot; Height=&quot;25&quot; TextWrapping=&quot;Wrap&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;10,162,12.667,0&quot;/&gt;&#10;        &lt;TextBlock TextWrapping=&quot;Wrap&quot; Text=&quot;Начальное угловое положение ЛА в формате (w:y:v) [градусы]&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;10,202,12.667,0&quot; Height=&quot;39&quot;/&gt;&#10;        &lt;TextBox x:Name=&quot;angularPositionLA&quot; TextWrapping=&quot;Wrap&quot; Margin=&quot;10,232,12.667,0&quot; Height=&quot;25&quot; VerticalAlignment=&quot;Top&quot;/&gt;&#10;        &lt;Button x:Name=&quot;OK&quot; Content=&quot;Ок&quot; Margin=&quot;0,0,13.8,13.8&quot; Height=&quot;20&quot; VerticalAlignment=&quot;Bottom&quot; HorizontalAlignment=&quot;Right&quot; Width=&quot;75&quot; Click=&quot;OK_Click&quot;/&gt;&#10;    &lt;/Grid&gt;.../&gt;" />
-            <marker date="1559749511676" expanded="true" signature="320:1888" ph="&lt;&lt;TextBlock TextWrapping=&quot;Wrap&quot; Text=&quot;Высота полета [м]&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;10,11,12.8,0&quot; Height=&quot;19&quot;/&gt; &lt;TextBox x:Name=&quot;flightHeigh&quot; Height=&quot;25&quot; TextWrapping=&quot;Wrap&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;10,32,12.8,0&quot;/&gt; &lt;TextBlock TextWrapping=&quot;Wrap&quot; Text=&quot;Изменение высоты полета (+ набор высоты / - снижение) [м/с]&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;10,65,12.8,0&quot; Height=&quot;42&quot;/&gt; &lt;TextBox x:Name=&quot;flightHeighChange&quot; Height=&quot;25&quot; TextWrapping=&quot;Wrap&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;10,93,12.667,0&quot;/&gt; &lt;TextBlock TextWrapping=&quot;Wrap&quot; Text=&quot;Проекции скорости полета на оси X, Y, Z в формате (Vx:Vy:Vz) [м/с]&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;10,129,12.667,0&quot; Height=&quot;32&quot;/&gt; &lt;TextBox x:Name=&quot;speedProection&quot; Height=&quot;25&quot; TextWrapping=&quot;Wrap&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;10,162,12.667,0&quot;/&gt; &lt;TextBlock TextWrapping=&quot;Wrap&quot; Text=&quot;Начальное угловое положение ЛА в формате (w:y:v) [градусы]&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;10,202,12.667,0&quot; Height=&quot;39&quot;/&gt; &lt;TextBox x:Name=&quot;angularPositionLA&quot; TextWrapping=&quot;Wrap&quot; Margin=&quot;10,232,12.667,0&quot; Height=&quot;25&quot; VerticalAlignment=&quot;Top&quot;/&gt; &lt;Button x:Name=&quot;OK&quot; Content=&quot;Ок&quot; Margin=&quot;0,0,13.8,13.8&quot; Height=&quot;20&quot; VerticalAlignment=&quot;Bottom&quot; HorizontalAlignment=&quot;Right&quot; Width=&quot;75&quot; Click=&quot;OK_Click&quot;/&gt; &lt;TextBlock TextWrapping=&quot;Wrap&quot; Text=&quot;Координаты самолета в формате (X;Y)&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;10,271,12,0&quot; Height=&quot;39&quot;/&gt; &lt;TextBox x:Name=&quot;LACoordinates&quot; TextWrapping=&quot;Wrap&quot; Margin=&quot;10,299,12,0&quot; Height=&quot;25&quot; VerticalAlignment=&quot;Top&quot;/&gt;.../&gt;" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Interface/CameraParameters.xaml.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1472">
@@ -875,7 +842,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CoordinatesCounter.Core/InputStructs/AircraftIpnutData.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
+        <state relative-caret-position="-16">
           <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
           <folding>
             <marker date="1559728954935" expanded="true" signature="61:1829" ph="{...}" />
@@ -953,7 +920,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CoordinatesCounter.Core/Calculations/CoordinatesCounter.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
+        <state relative-caret-position="1360">
           <caret line="86" column="14" selection-start-line="86" selection-start-column="14" selection-end-line="86" selection-end-column="14" />
           <folding>
             <marker date="1559730437710" expanded="false" signature="6:57" ph="..." />
@@ -980,39 +947,93 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Interface/CoreInterface.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding>
+            <marker date="1559730856136" expanded="false" signature="6:74" ph="..." />
+            <marker date="1559730856136" expanded="true" signature="95:598" ph="{...}" />
+            <marker date="1559730856136" expanded="true" signature="135:596" ph="{...}" />
+            <marker date="1559730856136" expanded="true" signature="570:590" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interface/InputCheck.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="36" column="13" lean-forward="true" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+          <folding>
+            <marker date="1559751800706" expanded="false" signature="6:93" ph="..." />
+            <marker date="1559751800706" expanded="true" signature="114:4462" ph="{...}" />
+            <marker date="1559751800706" expanded="true" signature="151:4460" ph="{...}" />
+            <marker date="1559751800706" expanded="true" signature="1938:3263" ph="{...}" />
+            <marker date="1559751800706" expanded="true" signature="2002:2170" ph="{...}" />
+            <marker date="1559751800706" expanded="true" signature="2225:2393" ph="{...}" />
+            <marker date="1559751800706" expanded="true" signature="2464:2640" ph="{...}" />
+            <marker date="1559751800706" expanded="true" signature="2699:2869" ph="{...}" />
+            <marker date="1559751800706" expanded="true" signature="2937:3227" ph="{...}" />
+            <marker date="1559751800706" expanded="true" signature="3022:3213" ph="{...}" />
+            <marker date="1559751800706" expanded="true" signature="3454:4454" ph="{...}" />
+            <marker date="1559751800706" expanded="true" signature="3532:3707" ph="{...}" />
+            <marker date="1559751800706" expanded="true" signature="3770:3942" ph="{...}" />
+            <marker date="1559751800706" expanded="true" signature="4011:4186" ph="{...}" />
+            <marker date="1559751800706" expanded="true" signature="4247:4418" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interface/LAParameters.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1559749511676" expanded="true" signature="0:1898" ph="&lt;&lt;Grid&gt;&#10;        &lt;TextBlock TextWrapping=&quot;Wrap&quot; Text=&quot;Высота полета [м]&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;10,11,12.8,0&quot; Height=&quot;19&quot;/&gt;&#10;        &lt;TextBox x:Name=&quot;flightHeigh&quot; Height=&quot;25&quot; TextWrapping=&quot;Wrap&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;10,32,12.8,0&quot;/&gt;&#10;        &lt;TextBlock TextWrapping=&quot;Wrap&quot; Text=&quot;Изменение высоты полета (+ набор высоты / - снижение) [м/с]&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;10,65,12.8,0&quot; Height=&quot;42&quot;/&gt;&#10;        &lt;TextBox x:Name=&quot;flightHeighChange&quot; Height=&quot;25&quot; TextWrapping=&quot;Wrap&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;10,93,12.667,0&quot;/&gt;&#10;        &lt;TextBlock TextWrapping=&quot;Wrap&quot; Text=&quot;Проекции скорости полета на оси X, Y, Z в формате (Vx:Vy:Vz) [м/с]&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;10,129,12.667,0&quot; Height=&quot;32&quot;/&gt;&#10;        &lt;TextBox x:Name=&quot;speedProection&quot; Height=&quot;25&quot; TextWrapping=&quot;Wrap&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;10,162,12.667,0&quot;/&gt;&#10;        &lt;TextBlock TextWrapping=&quot;Wrap&quot; Text=&quot;Начальное угловое положение ЛА в формате (w:y:v) [градусы]&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;10,202,12.667,0&quot; Height=&quot;39&quot;/&gt;&#10;        &lt;TextBox x:Name=&quot;angularPositionLA&quot; TextWrapping=&quot;Wrap&quot; Margin=&quot;10,232,12.667,0&quot; Height=&quot;25&quot; VerticalAlignment=&quot;Top&quot;/&gt;&#10;        &lt;Button x:Name=&quot;OK&quot; Content=&quot;Ок&quot; Margin=&quot;0,0,13.8,13.8&quot; Height=&quot;20&quot; VerticalAlignment=&quot;Bottom&quot; HorizontalAlignment=&quot;Right&quot; Width=&quot;75&quot; Click=&quot;OK_Click&quot;/&gt;&#10;    &lt;/Grid&gt;.../&gt;" />
+            <marker date="1559749511676" expanded="true" signature="320:1888" ph="&lt;&lt;TextBlock TextWrapping=&quot;Wrap&quot; Text=&quot;Высота полета [м]&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;10,11,12.8,0&quot; Height=&quot;19&quot;/&gt; &lt;TextBox x:Name=&quot;flightHeigh&quot; Height=&quot;25&quot; TextWrapping=&quot;Wrap&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;10,32,12.8,0&quot;/&gt; &lt;TextBlock TextWrapping=&quot;Wrap&quot; Text=&quot;Изменение высоты полета (+ набор высоты / - снижение) [м/с]&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;10,65,12.8,0&quot; Height=&quot;42&quot;/&gt; &lt;TextBox x:Name=&quot;flightHeighChange&quot; Height=&quot;25&quot; TextWrapping=&quot;Wrap&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;10,93,12.667,0&quot;/&gt; &lt;TextBlock TextWrapping=&quot;Wrap&quot; Text=&quot;Проекции скорости полета на оси X, Y, Z в формате (Vx:Vy:Vz) [м/с]&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;10,129,12.667,0&quot; Height=&quot;32&quot;/&gt; &lt;TextBox x:Name=&quot;speedProection&quot; Height=&quot;25&quot; TextWrapping=&quot;Wrap&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;10,162,12.667,0&quot;/&gt; &lt;TextBlock TextWrapping=&quot;Wrap&quot; Text=&quot;Начальное угловое положение ЛА в формате (w:y:v) [градусы]&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;10,202,12.667,0&quot; Height=&quot;39&quot;/&gt; &lt;TextBox x:Name=&quot;angularPositionLA&quot; TextWrapping=&quot;Wrap&quot; Margin=&quot;10,232,12.667,0&quot; Height=&quot;25&quot; VerticalAlignment=&quot;Top&quot;/&gt; &lt;Button x:Name=&quot;OK&quot; Content=&quot;Ок&quot; Margin=&quot;0,0,13.8,13.8&quot; Height=&quot;20&quot; VerticalAlignment=&quot;Bottom&quot; HorizontalAlignment=&quot;Right&quot; Width=&quot;75&quot; Click=&quot;OK_Click&quot;/&gt; &lt;TextBlock TextWrapping=&quot;Wrap&quot; Text=&quot;Координаты самолета в формате (X;Y)&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;10,271,12,0&quot; Height=&quot;39&quot;/&gt; &lt;TextBox x:Name=&quot;LACoordinates&quot; TextWrapping=&quot;Wrap&quot; Margin=&quot;10,299,12,0&quot; Height=&quot;25&quot; VerticalAlignment=&quot;Top&quot;/&gt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Interface/MainWindow.xaml.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
+        <state relative-caret-position="413">
+          <caret line="49" column="34" lean-forward="true" selection-start-line="49" selection-start-column="34" selection-end-line="49" selection-end-column="34" />
           <folding>
-            <marker date="1559749480642" expanded="false" signature="6:180" ph="..." />
-            <marker date="1559749480642" expanded="true" signature="201:1718" ph="{...}" />
-            <marker date="1559749480642" expanded="true" signature="208:286" ph="/// Interaction logic for MainWindow.xaml ... " />
-            <marker date="1559749480642" expanded="true" signature="331:1716" ph="{...}" />
-            <marker date="1559749480642" expanded="true" signature="365:420" ph="{...}" />
-            <marker date="1559749480642" expanded="true" signature="492:587" ph="{...}" />
-            <marker date="1559749480642" expanded="true" signature="660:763" ph="{...}" />
-            <marker date="1559749480642" expanded="true" signature="832:1474" ph="{...}" />
-            <marker date="1559749480642" expanded="true" signature="1550:1710" ph="{...}" />
+            <marker date="1559749946105" expanded="false" signature="6:180" ph="..." />
+            <marker date="1559749946105" expanded="true" signature="201:1710" ph="{...}" />
+            <marker date="1559749946105" expanded="true" signature="208:286" ph="/// Interaction logic for MainWindow.xaml ... " />
+            <marker date="1559749946105" expanded="true" signature="331:1708" ph="{...}" />
+            <marker date="1559749946105" expanded="true" signature="365:420" ph="{...}" />
+            <marker date="1559749946105" expanded="true" signature="492:587" ph="{...}" />
+            <marker date="1559749946105" expanded="true" signature="660:763" ph="{...}" />
+            <marker date="1559749946105" expanded="true" signature="832:1474" ph="{...}" />
+            <marker date="1559749946105" expanded="true" signature="1542:1702" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/363257E3-9D24-4888-B16F-C2A2FFEC12DF/cc/8a25d8d7/Number.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="698" column="59" lean-forward="true" selection-start-line="698" selection-start-column="59" selection-end-line="698" selection-end-column="59" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Interface/LAParameters.xaml.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
+        <state relative-caret-position="28">
           <caret line="29" column="66" selection-start-line="29" selection-start-column="66" selection-end-line="29" selection-end-column="66" />
           <folding>
-            <marker date="1559749827350" expanded="false" signature="6:110" ph="..." />
-            <marker date="1559749827350" expanded="true" signature="131:2875" ph="{...}" />
-            <marker date="1559749827350" expanded="true" signature="138:213" ph="/// Interaction logic for Window1.xaml ... " />
-            <marker date="1559749827350" expanded="true" signature="260:2873" ph="{...}" />
-            <marker date="1559749827350" expanded="true" signature="296:351" ph="{...}" />
-            <marker date="1559749827350" expanded="true" signature="416:2867" ph="{...}" />
-            <marker date="1559749827350" expanded="true" signature="855:2857" ph="{...}" />
-            <marker date="1559749827350" expanded="true" signature="1254:1381" ph="{...}" />
-            <marker date="1559749827350" expanded="true" signature="1551:1681" ph="{...}" />
-            <marker date="1559749827350" expanded="true" signature="1839:1965" ph="{...}" />
+            <marker date="1559752611518" expanded="false" signature="6:110" ph="..." />
+            <marker date="1559752611518" expanded="true" signature="131:2875" ph="{...}" />
+            <marker date="1559752611518" expanded="true" signature="138:213" ph="/// Interaction logic for Window1.xaml ... " />
+            <marker date="1559752611518" expanded="true" signature="260:2873" ph="{...}" />
+            <marker date="1559752611518" expanded="true" signature="296:351" ph="{...}" />
+            <marker date="1559752611518" expanded="true" signature="416:2867" ph="{...}" />
+            <marker date="1559752611518" expanded="true" signature="855:2857" ph="{...}" />
+            <marker date="1559752611518" expanded="true" signature="1254:1381" ph="{...}" />
+            <marker date="1559752611518" expanded="true" signature="1551:1681" ph="{...}" />
+            <marker date="1559752611518" expanded="true" signature="1839:1965" ph="{...}" />
           </folding>
         </state>
       </provider>

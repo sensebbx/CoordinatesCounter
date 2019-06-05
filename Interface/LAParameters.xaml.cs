@@ -27,7 +27,7 @@ namespace Interface
             {
                 string[] speedProectionArr = speedProection.Split(':');
                 string[] angularPositionLAArr = angularPositionLA.Split(':');
-                string[] LACoordinatesArr = LACoordinates.Split(':');
+                string[] LACoordinatesArr = LACoordinates.Split(';');
 
                 int i = 0;
                 int[] speedProectionArrInt = new int[speedProectionArr.Length];
