@@ -44,7 +44,6 @@ namespace Interface
                 CoreInterface.CoordinatesCounter.L);
         }
 
-        //TODO: вызвать эту функцию из ядра для передачи результата
         public void ResultOutput(float x, float y, int h, float l)
         {
             X.Text = x.ToString();
