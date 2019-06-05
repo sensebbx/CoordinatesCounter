@@ -14,7 +14,7 @@ namespace Interface
         static Regex speedProectionCheck = new Regex(@"^[0-9]{1,3}:[0-9]{1,3}:[0-9]{1,3}$");
         static Regex angularPositionLACheck = new Regex(@"^[0-9]{1,3}:[0-9]{1,3}:[0-9]{1,3}$");
         static Regex pairOfCoordinatesCheck = new Regex(@"^[\d]+;[\d]+$");
-        static Regex LACoordinatesCheck = new Regex(@"^[0-9]+:[0-9]+:[0-9]+$");
+        static Regex LACoordinatesCheck = new Regex(@"^[0-9]+;[0-9]+$");
 
         private static string cadrFormarError = "Недопустимый формат кадра";
         private static string cornerGripError = "Недопустимый угловой захват местности";
