@@ -65,8 +65,8 @@ namespace Interface
                 CoreInterface.AircraftIpnutData.H = flightHeighInt;
                 CoreInterface.AircraftIpnutData.VX = speedProectionArrInt[0];
                 CoreInterface.AircraftIpnutData.VY = speedProectionArrInt[1];
-
-                //TODO: Координаты самолёта нужны
+                CoreInterface.AircraftIpnutData.XS = LACoordinatesArrInt[0];
+                CoreInterface.AircraftIpnutData.YS = LACoordinatesArrInt[1];
 
                 //Input of Aircraft Matrix
                 CoreInterface.AnglePlaneMatrix = new AnglePlaneMatrix(angularPositionLAArrInt[0], angularPositionLA[1],
