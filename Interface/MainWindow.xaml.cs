@@ -1,4 +1,7 @@
 ﻿using System.Windows;
+using CoordinatesCounter.Core;
+using CoordinatesCounter.Core.InputStructs;
+using CoordinatesCounter = CoordinatesCounter.Core.Calculations.CoordinatesCounter;
 
 namespace Interface
 {
@@ -26,11 +29,23 @@ namespace Interface
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            //TODO: вызвать основную функцию ядра
+            CoreInterface.CoordinatesCounter = new global::CoordinatesCounter.Core.Calculations.CoordinatesCounter(
+                ref CoreInterface.AnglePlaneMatrix,
+                ref CoreInterface.AngleCameraOnPlaneMatrix,
+                ref CoreInterface.CameraInputData,
+                CoreInterface.AircraftIpnutData);
+
+            CoreInterface.CoordinatesCounter.Calculate(CoreInterface.ObjectInputData);
+
+            ResultOutput(
+                CoreInterface.CoordinatesCounter.X,
+                CoreInterface.CoordinatesCounter.Y,
+                100,
+                CoreInterface.CoordinatesCounter.L);
         }
 
         //TODO: вызвать эту функцию из ядра для передачи результата
-        public void ResultOutput(int x, int y, int h, int l)
+        public void ResultOutput(float x, float y, int h, float l)
         {
             X.Text = x.ToString();
             Y.Text = y.ToString();
