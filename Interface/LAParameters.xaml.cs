@@ -19,11 +19,13 @@ namespace Interface
             string flightHeighChange = this.flightHeighChange.Text;
             string speedProection = this.speedProection.Text;
             string angularPositionLA = this.angularPositionLA.Text;
+            string LACoordinates = this.LACoordinates.Text;
 
-            if (InputCheck.CheckInputLAData(flightHeighChange, speedProection, angularPositionLA))
+            if (InputCheck.CheckInputLAData(flightHeighChange, speedProection, angularPositionLA, LACoordinates))
             {
                 string[] speedProectionArr = speedProection.Split(':');
                 string[] angularPositionLAArr = angularPositionLA.Split(':');
+                string[] LACoordinatesArr = LACoordinates.Split(':');
 
                 int i = 0;
                 int[] speedProectionArrInt = new int[speedProectionArr.Length];
@@ -40,6 +42,15 @@ namespace Interface
                 foreach (string s in angularPositionLAArr)
                 {
                     angularPositionLAArrInt[i] = Convert.ToInt32(s);
+                    ++i;
+                }
+
+                i = 0;
+                int[] LACoordinatesArrInt = new int[LACoordinatesArr.Length];
+
+                foreach (string s in LACoordinatesArr)
+                {
+                    LACoordinatesArrInt[i] = Convert.ToInt32(s);
                     ++i;
                 }
 
